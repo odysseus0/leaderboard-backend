@@ -2,7 +2,7 @@
   {
     "content": "OH: (security researcher) There should be a space-based layer-1 network deployed on nano satellites, designed to serve as the root of trust and final authority",
     "tweet_id": "1857795908601077974",
-    "engagement_score": 485.67
+    "engagement_score": 485.73
   },
   {
     "content": "Hello from Devcon 🔥🚀",
@@ -22,12 +22,12 @@
   {
     "content": "OH: neeraj didn't know what teleport was..",
     "tweet_id": "1856620974034051277",
-    "engagement_score": 47.61
+    "engagement_score": 48.61
   },
   {
     "content": "OH: where's c-node???",
     "tweet_id": "1856599589035401593",
-    "engagement_score": 44.47
+    "engagement_score": 45.47
   },
   {
     "content": "OH: (researcher) It's cheaper to launch Us-east1 to Space than open source RTL to GSD for a single chip.",
@@ -47,7 +47,7 @@
   {
     "content": "OH: three cheap parachutes are better than one expensive one, discuss",
     "tweet_id": "1856230458754744690",
-    "engagement_score": 24.18
+    "engagement_score": 24.19
   },
   {
     "content": "OH: incredible result of multi million dollar grant to @0xPARC is .... frog hats",
@@ -80,14 +80,24 @@
     "engagement_score": 14.13
   },
   {
+    "content": "OH: the beau-tee!",
+    "tweet_id": "1856541893103882663",
+    "engagement_score": 13.74
+  },
+  {
+    "content": "OH: 1token = 1like",
+    "tweet_id": "1856415515192827973",
+    "engagement_score": 13.56
+  },
+  {
     "content": "OH: Eigenlayer wants to coordinate the human race but they can’t even coordinate an org of 50 people",
     "tweet_id": "1857064135294406945",
     "engagement_score": 13.47
   },
   {
-    "content": "OH: the beau-tee!",
-    "tweet_id": "1856541893103882663",
-    "engagement_score": 12.74
+    "content": "OH: test test if this works im sold on tees",
+    "tweet_id": "1856396292181659947",
+    "engagement_score": 12.91
   },
   {
     "content": "OH: Ahhhhhhhh im beamin",
@@ -100,19 +110,9 @@
     "engagement_score": 12.69
   },
   {
-    "content": "OH: 1token = 1like",
-    "tweet_id": "1856415515192827973",
-    "engagement_score": 12.56
-  },
-  {
     "content": "OH: never ask:\na man his salary\na woman her age\n@0xBalloonLover why they never critique succinct",
     "tweet_id": "1857265780133425350",
     "engagement_score": 12.16
-  },
-  {
-    "content": "OH: test test if this works im sold on tees",
-    "tweet_id": "1856396292181659947",
-    "engagement_score": 11.91
   },
   {
     "content": "OH: Bangkok at night? More like edge city amirite?",
@@ -205,6 +205,11 @@
     "engagement_score": 9.43
   },
   {
+    "content": "OH: itsa mee the tee! (super mario voice)",
+    "tweet_id": "1856415155397017982",
+    "engagement_score": 9.39
+  },
+  {
     "content": "OH: Solana? More like SQLana",
     "tweet_id": "1856303740157923660",
     "engagement_score": 9.37
@@ -217,7 +222,7 @@
   {
     "content": "OH: It's only downhill",
     "tweet_id": "1857766808708661319",
-    "engagement_score": 9.21
+    "engagement_score": 9.22
   },
   {
     "content": "OH: long live TEEs, cryptography is dead",
@@ -227,7 +232,7 @@
   {
     "content": "OH: what even is an AI circuit breaker at the sequence level? Just marketing?",
     "tweet_id": "1857828855773360459",
-    "engagement_score": 9.0
+    "engagement_score": 9.02
   },
   {
     "content": "OH: That guy was doing ZK before Circom; an actual masochist",
@@ -240,14 +245,9 @@
     "engagement_score": 8.4
   },
   {
-    "content": "OH: itsa mee the tee! (super mario voice)",
-    "tweet_id": "1856415155397017982",
-    "engagement_score": 8.39
-  },
-  {
     "content": "OH: Building on monad is like paying for your sister to attend your high-school reunion",
     "tweet_id": "1857810294199705693",
-    "engagement_score": 8.33
+    "engagement_score": 8.35
   },
   {
     "content": "OH: Sir. A second Dan Robinson auction mechanism has hit a Paradigm portco",
@@ -297,12 +297,22 @@
   {
     "content": "OH: mopeds are the L2s of Bangkok",
     "tweet_id": "1857795629885391199",
-    "engagement_score": 6.42
+    "engagement_score": 6.43
   },
   {
     "content": "OH: i like mermaids over reverse mermaids",
     "tweet_id": "1856699381698687426",
     "engagement_score": 6.35
+  },
+  {
+    "content": "OH: you know kitkat doesn’t have silver foil anymore",
+    "tweet_id": "1856600630095208518",
+    "engagement_score": 6.34
+  },
+  {
+    "content": "OH: Hello. I am at Devcon 🙌🏻",
+    "tweet_id": "1856547167118172216",
+    "engagement_score": 6.32
   },
   {
     "content": "OH: Sure Grandma let's get you to bed",
@@ -313,6 +323,11 @@
     "content": "OH: A place for friendship shouldn't be for just one nation.",
     "tweet_id": "1857379242314539122",
     "engagement_score": 6.29
+  },
+  {
+    "content": "OH: None of these people are Ethereum.",
+    "tweet_id": "1856612248854126898",
+    "engagement_score": 6.27
   },
   {
     "content": "OH: eth surges as local critic (@0xBalloonLover) is revealed to be a solana multisig @0xShitTrader, @rajivpoc, and @bqbrady.",
@@ -352,7 +367,7 @@
   {
     "content": "OH: might be a hot take, but wagyu and caviar are overrated",
     "tweet_id": "1857801654344524221",
-    "engagement_score": 5.59
+    "engagement_score": 5.6
   },
   {
     "content": "OH: vitalik was here",
@@ -375,21 +390,6 @@
     "engagement_score": 5.35
   },
   {
-    "content": "OH: you know kitkat doesn’t have silver foil anymore",
-    "tweet_id": "1856600630095208518",
-    "engagement_score": 5.34
-  },
-  {
-    "content": "OH: Hello. I am at Devcon 🙌🏻",
-    "tweet_id": "1856547167118172216",
-    "engagement_score": 5.32
-  },
-  {
-    "content": "OH: None of these people are Ethereum.",
-    "tweet_id": "1856612248854126898",
-    "engagement_score": 5.27
-  },
-  {
     "content": "OH: just spent 20 minutes writing a tweet and then immediately deleted it bc i was like what am i doing with my life",
     "tweet_id": "1856205036293963936",
     "engagement_score": 5.2
@@ -405,24 +405,24 @@
     "engagement_score": 5.04
   },
   {
+    "content": "OH: Yeah, there's gonna be a rug. TBD",
+    "tweet_id": "1857801598082125882",
+    "engagement_score": 4.86
+  },
+  {
     "content": "OH: Maybe Ethereum is like California…\n\nEternally in competition between “how much potential can we assemble in one place?” and “how wastefully can we squander it?”",
     "tweet_id": "1856362948777644098",
     "engagement_score": 4.86
   },
   {
-    "content": "OH: Yeah, there's gonna be a rug. TBD",
-    "tweet_id": "1857801598082125882",
-    "engagement_score": 4.85
+    "content": "OH at Lumphini Park:\n\n“Are these fish gonna be ok with all these styrofoam??”\n“I’m sure they are used to it”",
+    "tweet_id": "1857802013494456330",
+    "engagement_score": 4.83
   },
   {
     "content": "OH: Vald has this idea of everyone walking around being money.",
     "tweet_id": "1855695139466838366",
     "engagement_score": 4.82
-  },
-  {
-    "content": "OH at Lumphini Park:\n\n“Are these fish gonna be ok with all these styrofoam??”\n“I’m sure they are used to it”",
-    "tweet_id": "1857802013494456330",
-    "engagement_score": 4.81
   },
   {
     "content": "OH: life is good after shipping",
@@ -462,7 +462,7 @@
   {
     "content": "OH: megaETH are the Trump kids (and the founders can’t even vote).\nSolana are the republicans.\nFlashbots and Ethereum are the center-left democrats.",
     "tweet_id": "1857800885058806217",
-    "engagement_score": 4.23
+    "engagement_score": 4.24
   },
   {
     "content": "OH: tweet tweet tweet and grow your wealth",
@@ -512,7 +512,7 @@
   {
     "content": "OH: I'm gonna jailbreak this content filter, watch me",
     "tweet_id": "1857795867534594396",
-    "engagement_score": 3.45
+    "engagement_score": 3.46
   },
   {
     "content": "OH: hello anonymous",
@@ -537,7 +537,7 @@
   {
     "content": "OH: I can't believe I assumed Risc0 v Succinct would get less childish after Brian stepped down 🤷",
     "tweet_id": "1857629905019678892",
-    "engagement_score": 2.74
+    "engagement_score": 2.75
   },
   {
     "content": "OH: I heard that @n_yushkevich is at DevCon with the @quicknode team?",
@@ -552,6 +552,6 @@
   {
     "content": "OH: the FatBoy thesis is Ethereum 3.0",
     "tweet_id": "1857795277106594265",
-    "engagement_score": 1.45
+    "engagement_score": 1.46
   }
 ]
