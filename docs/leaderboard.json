@@ -2,7 +2,7 @@
   {
     "content": "OH: (security researcher) There should be a space-based layer-1 network deployed on nano satellites, designed to serve as the root of trust and final authority",
     "tweet_id": "1857795908601077974",
-    "engagement_score": 487.91
+    "engagement_score": 487.94
   },
   {
     "content": "Hello from Devcon 🔥🚀",
@@ -27,7 +27,7 @@
   {
     "content": "OH: where's c-node???",
     "tweet_id": "1856599589035401593",
-    "engagement_score": 44.54
+    "engagement_score": 44.55
   },
   {
     "content": "OH: (researcher) It's cheaper to launch Us-east1 to Space than open source RTL to GSD for a single chip.",
@@ -42,7 +42,7 @@
   {
     "content": "OH: TEE normalization is the CIAs attempt at infiltrating cryptography",
     "tweet_id": "1856649745009160604",
-    "engagement_score": 25.64
+    "engagement_score": 25.65
   },
   {
     "content": "OH: three cheap parachutes are better than one expensive one, discuss",
@@ -185,6 +185,11 @@
     "engagement_score": 9.04
   },
   {
+    "content": "OH: Building on monad is like paying for your sister to attend your high-school reunion",
+    "tweet_id": "1857810294199705693",
+    "engagement_score": 8.79
+  },
+  {
     "content": "OH: According to the new market conditions I identify as an ai agent memecoin",
     "tweet_id": "1857033315103977695",
     "engagement_score": 8.74
@@ -227,12 +232,17 @@
   {
     "content": "OH: what even is an AI circuit breaker at the sequence level? Just marketing?",
     "tweet_id": "1857828855773360459",
-    "engagement_score": 8.44
+    "engagement_score": 8.45
   },
   {
     "content": "OH: Zk is overestimated. Isnt it?",
     "tweet_id": "1856363701927915872",
     "engagement_score": 8.41
+  },
+  {
+    "content": "OH: It's only downhill",
+    "tweet_id": "1857766808708661319",
+    "engagement_score": 8.3
   },
   {
     "content": "OH: Sir. A second Dan Robinson auction mechanism has hit a Paradigm portco",
@@ -245,19 +255,9 @@
     "engagement_score": 7.81
   },
   {
-    "content": "OH: Building on monad is like paying for your sister to attend your high-school reunion",
-    "tweet_id": "1857810294199705693",
-    "engagement_score": 7.78
-  },
-  {
     "content": "OH: itsa mee the tee! (super mario voice)",
     "tweet_id": "1856415155397017982",
     "engagement_score": 7.4
-  },
-  {
-    "content": "OH: It's only downhill",
-    "tweet_id": "1857766808708661319",
-    "engagement_score": 7.3
   },
   {
     "content": "OH: Canada is basically America’s L2. It’s not a sidechain, it has no independent security…",
@@ -302,7 +302,7 @@
   {
     "content": "OH: Best time this year is to meet up so many fantastic women here",
     "tweet_id": "1857453784823103983",
-    "engagement_score": 6.23
+    "engagement_score": 6.24
   },
   {
     "content": "OH: I think that last panel could've used a bit more subtraction, if you know what I mean...",
@@ -390,6 +390,11 @@
     "engagement_score": 5.05
   },
   {
+    "content": "OH: might be a hot take, but wagyu and caviar are overrated",
+    "tweet_id": "1857801654344524221",
+    "engagement_score": 4.93
+  },
+  {
     "content": "OH: Maybe Ethereum is like California…\n\nEternally in competition between “how much potential can we assemble in one place?” and “how wastefully can we squander it?”",
     "tweet_id": "1856362948777644098",
     "engagement_score": 4.87
@@ -442,7 +447,7 @@
   {
     "content": "OH at Lumphini Park:\n\n“Are these fish gonna be ok with all these styrofoam??”\n“I’m sure they are used to it”",
     "tweet_id": "1857802013494456330",
-    "engagement_score": 4.24
+    "engagement_score": 4.25
   },
   {
     "content": "OH: tweet tweet tweet and grow your wealth",
@@ -452,17 +457,12 @@
   {
     "content": "OH: Yeah, there's gonna be a rug. TBD",
     "tweet_id": "1857801598082125882",
-    "engagement_score": 4.07
+    "engagement_score": 4.08
   },
   {
     "content": "OH: The Ethereum ecosystem would be much healthier if we roasted Consensys leadership every quarter",
     "tweet_id": "1857072222113829112",
     "engagement_score": 4.0
-  },
-  {
-    "content": "OH: might be a hot take, but wagyu and caviar are overrated",
-    "tweet_id": "1857801654344524221",
-    "engagement_score": 3.92
   },
   {
     "content": "OH: weed?? Nono I thought you said wheat",
@@ -552,7 +552,7 @@
   {
     "content": "OH: Who is building SOL on Ethereum?",
     "tweet_id": "1859950062828171564",
-    "engagement_score": 1.54
+    "engagement_score": 1.65
   },
   {
     "content": "OH: the FatBoy thesis is Ethereum 3.0",
