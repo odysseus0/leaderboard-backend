@@ -2,7 +2,7 @@
   {
     "content": "OH: (security researcher) There should be a space-based layer-1 network deployed on nano satellites, designed to serve as the root of trust and final authority",
     "tweet_id": "1857795908601077974",
-    "engagement_score": 492.02
+    "engagement_score": 492.05
   },
   {
     "content": "Hello from Devcon 🔥🚀",
@@ -27,12 +27,12 @@
   {
     "content": "OH: where's c-node???",
     "tweet_id": "1856599589035401593",
-    "engagement_score": 44.52
+    "engagement_score": 44.53
   },
   {
     "content": "OH: (researcher) It's cheaper to launch Us-east1 to Space than open source RTL to GSD for a single chip.",
     "tweet_id": "1856683778304876816",
-    "engagement_score": 32.02
+    "engagement_score": 32.03
   },
   {
     "content": "OH: The ticker is echo",
@@ -42,12 +42,12 @@
   {
     "content": "OH: TEE normalization is the CIAs attempt at infiltrating cryptography",
     "tweet_id": "1856649745009160604",
-    "engagement_score": 25.62
+    "engagement_score": 25.63
   },
   {
     "content": "OH: three cheap parachutes are better than one expensive one, discuss",
     "tweet_id": "1856230458754744690",
-    "engagement_score": 24.2
+    "engagement_score": 24.21
   },
   {
     "content": "OH: incredible result of multi million dollar grant to @0xPARC is .... frog hats",
@@ -67,7 +67,7 @@
   {
     "content": "OH: Nurturing diversity is critical, biodiversity is the only way organisms in a garden can survive.",
     "tweet_id": "1856667983482876297",
-    "engagement_score": 14.51
+    "engagement_score": 14.52
   },
   {
     "content": "OH: Before I say anything about Starkware, please make sure you don’t have any beepers on you",
@@ -82,12 +82,12 @@
   {
     "content": "OH: the beau-tee!",
     "tweet_id": "1856541893103882663",
-    "engagement_score": 12.81
+    "engagement_score": 12.82
   },
   {
     "content": "OH: You have to imagine wealth as vectors in 3D-space",
     "tweet_id": "1855690771845783560",
-    "engagement_score": 12.72
+    "engagement_score": 12.73
   },
   {
     "content": "OH: 1token = 1like",
@@ -122,7 +122,7 @@
   {
     "content": "OH: Cypherpunk movement is coming to life...",
     "tweet_id": "1856265346690216368",
-    "engagement_score": 10.86
+    "engagement_score": 10.87
   },
   {
     "content": "OH: every time you spoke on that panel i could feel the value of my equity decreasing",
@@ -147,7 +147,7 @@
   {
     "content": "OH: the idea of money is\nflawed; money is \na constraint\nonce we free ourselves \nfrom that constraint, we is\nenlightened",
     "tweet_id": "1855691554171555962",
-    "engagement_score": 9.75
+    "engagement_score": 9.76
   },
   {
     "content": "OH: net worth of someone who…\n1. arrived for vitaliks panel, left for Phil\n2. arrived for Phil panel + beam chain\n3. arrived only for beam chain\n4. had a comfy seat for all three",
@@ -235,11 +235,6 @@
     "engagement_score": 8.35
   },
   {
-    "content": "OH: It's only downhill",
-    "tweet_id": "1857766808708661319",
-    "engagement_score": 8.28
-  },
-  {
     "content": "OH: Sir. A second Dan Robinson auction mechanism has hit a Paradigm portco",
     "tweet_id": "1856367947570393494",
     "engagement_score": 7.88
@@ -250,14 +245,14 @@
     "engagement_score": 7.81
   },
   {
-    "content": "OH: Building on monad is like paying for your sister to attend your high-school reunion",
-    "tweet_id": "1857810294199705693",
-    "engagement_score": 7.69
-  },
-  {
     "content": "OH: itsa mee the tee! (super mario voice)",
     "tweet_id": "1856415155397017982",
     "engagement_score": 7.39
+  },
+  {
+    "content": "OH: It's only downhill",
+    "tweet_id": "1857766808708661319",
+    "engagement_score": 7.28
   },
   {
     "content": "OH: Canada is basically America’s L2. It’s not a sidechain, it has no independent security…",
@@ -273,6 +268,11 @@
     "content": "OH: level 99 security is a TEE secured by Paradigm NDA",
     "tweet_id": "1855797588789776474",
     "engagement_score": 6.73
+  },
+  {
+    "content": "OH: Building on monad is like paying for your sister to attend your high-school reunion",
+    "tweet_id": "1857810294199705693",
+    "engagement_score": 6.69
   },
   {
     "content": "OH: the real Satoshi is the friends we made along the way",
@@ -302,7 +302,7 @@
   {
     "content": "OH: I think that last panel could've used a bit more subtraction, if you know what I mean...",
     "tweet_id": "1857374444970184722",
-    "engagement_score": 6.19
+    "engagement_score": 6.2
   },
   {
     "content": "OH: I'd tell you the joke, but MH has me under NDA :(",
@@ -390,11 +390,6 @@
     "engagement_score": 5.04
   },
   {
-    "content": "OH: might be a hot take, but wagyu and caviar are overrated",
-    "tweet_id": "1857801654344524221",
-    "engagement_score": 4.86
-  },
-  {
     "content": "OH: Maybe Ethereum is like California…\n\nEternally in competition between “how much potential can we assemble in one place?” and “how wastefully can we squander it?”",
     "tweet_id": "1856362948777644098",
     "engagement_score": 4.86
@@ -465,6 +460,11 @@
     "engagement_score": 3.98
   },
   {
+    "content": "OH: might be a hot take, but wagyu and caviar are overrated",
+    "tweet_id": "1857801654344524221",
+    "engagement_score": 3.86
+  },
+  {
     "content": "OH: in timeboost docs it says it shouldn’t change user experience but this isn’t true…",
     "tweet_id": "1855704593608352071",
     "engagement_score": 3.66
@@ -507,12 +507,12 @@
   {
     "content": "OH: I AM HACKED HAHAHHHA",
     "tweet_id": "1857417387328372916",
-    "engagement_score": 3.09
+    "engagement_score": 3.1
   },
   {
     "content": "OH: Hi Overheard",
     "tweet_id": "1857417262006727055",
-    "engagement_score": 2.95
+    "engagement_score": 2.96
   },
   {
     "content": "OH: I can't believe I assumed Risc0 v Succinct would get less childish after Brian stepped down 🤷",
@@ -537,12 +537,12 @@
   {
     "content": "OH: this is not cool",
     "tweet_id": "1857418486433140996",
-    "engagement_score": 2.17
+    "engagement_score": 2.18
   },
   {
     "content": "OH: 👍",
     "tweet_id": "1857417623727694151",
-    "engagement_score": 2.09
+    "engagement_score": 2.1
   },
   {
     "content": "OH: Are grass eating cows happier than corn eating cows?",
@@ -552,6 +552,6 @@
   {
     "content": "OH: the FatBoy thesis is Ethereum 3.0",
     "tweet_id": "1857795277106594265",
-    "engagement_score": 1.51
+    "engagement_score": 1.52
   }
 ]
