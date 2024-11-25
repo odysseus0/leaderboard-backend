@@ -1,23 +1,13 @@
 [
   {
-    "content": "OH: (security researcher) There should be a space-based layer-1 network deployed on nano satellites, designed to serve as the root of trust and final authority",
-    "tweet_id": "1857795908601077974",
-    "engagement_score": 491.77
-  },
-  {
-    "content": "Hello from Devcon 🔥🚀",
-    "tweet_id": "1856668703036711163",
-    "engagement_score": 224.2
-  },
-  {
-    "content": "OH: nice opsec btw lmfaoooo",
-    "tweet_id": "1857216715295261061",
-    "engagement_score": 220.91
-  },
-  {
     "content": "OH: have you hugged a solo staker today?",
     "tweet_id": "1856115200660746546",
     "engagement_score": 166.26
+  },
+  {
+    "content": "OH: (security researcher) There should be a space-based layer-1 network deployed on nano satellites, designed to serve as the root of trust and final authority",
+    "tweet_id": "1857795908601077974",
+    "engagement_score": 63.28
   },
   {
     "content": "OH: neeraj didn't know what teleport was..",
@@ -32,7 +22,7 @@
   {
     "content": "OH: mopeds are the L2s of Bangkok",
     "tweet_id": "1857795629885391199",
-    "engagement_score": 34.46
+    "engagement_score": 34.49
   },
   {
     "content": "OH: (researcher) It's cheaper to launch Us-east1 to Space than open source RTL to GSD for a single chip.",
@@ -47,7 +37,7 @@
   {
     "content": "OH: TEE normalization is the CIAs attempt at infiltrating cryptography",
     "tweet_id": "1856649745009160604",
-    "engagement_score": 25.65
+    "engagement_score": 25.66
   },
   {
     "content": "OH: three cheap parachutes are better than one expensive one, discuss",
@@ -170,6 +160,11 @@
     "engagement_score": 10.02
   },
   {
+    "content": "Hello from Devcon 🔥🚀",
+    "tweet_id": "1856668703036711163",
+    "engagement_score": 9.95
+  },
+  {
     "content": "OH: the idea of money is\nflawed; money is \na constraint\nonce we free ourselves \nfrom that constraint, we is\nenlightened",
     "tweet_id": "1855691554171555962",
     "engagement_score": 9.76
@@ -247,7 +242,7 @@
   {
     "content": "OH: Zk is overestimated. Isnt it?",
     "tweet_id": "1856363701927915872",
-    "engagement_score": 8.41
+    "engagement_score": 8.42
   },
   {
     "content": "OH: itsa mee the tee! (super mario voice)",
@@ -283,6 +278,11 @@
     "content": "OH: level 99 security is a TEE secured by Paradigm NDA",
     "tweet_id": "1855797588789776474",
     "engagement_score": 6.73
+  },
+  {
+    "content": "OH: nice opsec btw lmfaoooo",
+    "tweet_id": "1857216715295261061",
+    "engagement_score": 6.66
   },
   {
     "content": "OH: the real Satoshi is the friends we made along the way",
@@ -372,7 +372,7 @@
   {
     "content": "OH at Lumphini Park:\n\n“Are these fish gonna be ok with all these styrofoam??”\n“I’m sure they are used to it”",
     "tweet_id": "1857802013494456330",
-    "engagement_score": 5.45
+    "engagement_score": 5.46
   },
   {
     "content": "OH: Make me great again",
