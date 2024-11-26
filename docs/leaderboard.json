@@ -2,7 +2,7 @@
   {
     "content": "OH: (security researcher) There should be a space-based layer-1 network deployed on nano satellites, designed to serve as the root of trust and final authority",
     "tweet_id": "1857795908601077974",
-    "engagement_score": 491.93
+    "engagement_score": 491.92
   },
   {
     "content": "Hello from Devcon 🔥🚀",
@@ -32,7 +32,7 @@
   {
     "content": "OH: mopeds are the L2s of Bangkok",
     "tweet_id": "1857795629885391199",
-    "engagement_score": 34.86
+    "engagement_score": 34.85
   },
   {
     "content": "OH: (researcher) It's cheaper to launch Us-east1 to Space than open source RTL to GSD for a single chip.",
@@ -52,7 +52,7 @@
   {
     "content": "OH: three cheap parachutes are better than one expensive one, discuss",
     "tweet_id": "1856230458754744690",
-    "engagement_score": 24.28
+    "engagement_score": 24.26
   },
   {
     "content": "OH: incredible result of multi million dollar grant to @0xPARC is .... frog hats",
@@ -322,7 +322,7 @@
   {
     "content": "OH: I think that last panel could've used a bit more subtraction, if you know what I mean...",
     "tweet_id": "1857374444970184722",
-    "engagement_score": 6.24
+    "engagement_score": 6.23
   },
   {
     "content": "OH: I'd tell you the joke, but MH has me under NDA :(",
@@ -342,7 +342,7 @@
   {
     "content": "OH: The Ethereum Roast was a clear indicator @MaxResnick1 is not allergic to long term thinking.\n\nWe don’t need funny jokes, edible food or a well planned event, today. \n\nWe have 5 years — like zoom out.",
     "tweet_id": "1857213326423408943",
-    "engagement_score": 6.01
+    "engagement_score": 6.0
   },
   {
     "content": "OH: First time dengo not that bad, second time dengo and death.",
@@ -365,14 +365,14 @@
     "engagement_score": 5.53
   },
   {
-    "content": "OH at Lumphini Park:\n\n“Are these fish gonna be ok with all these styrofoam??”\n“I’m sure they are used to it”",
-    "tweet_id": "1857802013494456330",
-    "engagement_score": 5.51
-  },
-  {
     "content": "OH: Wait… is Phil a fed?",
     "tweet_id": "1856271896788050383",
     "engagement_score": 5.51
+  },
+  {
+    "content": "OH at Lumphini Park:\n\n“Are these fish gonna be ok with all these styrofoam??”\n“I’m sure they are used to it”",
+    "tweet_id": "1857802013494456330",
+    "engagement_score": 5.5
   },
   {
     "content": "OH: Make me great again",
@@ -472,7 +472,7 @@
   {
     "content": "OH: I AM HACKED HAHAHHHA",
     "tweet_id": "1857417387328372916",
-    "engagement_score": 4.14
+    "engagement_score": 4.13
   },
   {
     "content": "OH: Hi Overheard",
@@ -485,11 +485,6 @@
     "engagement_score": 4.0
   },
   {
-    "content": "OH: the @0xShitTrader guide to being a tough guy: make a manifesto exposing the \"ethereum deepstate,\" show everybody it at Zuzalu, and then launder it through a sesame street anon (hi @0xballoonlover)",
-    "tweet_id": "1857431563698417716",
-    "engagement_score": 3.66
-  },
-  {
     "content": "OH: weed?? Nono I thought you said wheat",
     "tweet_id": "1856363502799049111",
     "engagement_score": 3.66
@@ -498,6 +493,11 @@
     "content": "OH: in timeboost docs it says it shouldn’t change user experience but this isn’t true…",
     "tweet_id": "1855704593608352071",
     "engagement_score": 3.66
+  },
+  {
+    "content": "OH: the @0xShitTrader guide to being a tough guy: make a manifesto exposing the \"ethereum deepstate,\" show everybody it at Zuzalu, and then launder it through a sesame street anon (hi @0xballoonlover)",
+    "tweet_id": "1857431563698417716",
+    "engagement_score": 3.65
   },
   {
     "content": "OH: I'm gonna jailbreak this content filter, watch me",
@@ -517,7 +517,7 @@
   {
     "content": "OH: this is not cool",
     "tweet_id": "1857418486433140996",
-    "engagement_score": 3.22
+    "engagement_score": 3.21
   },
   {
     "content": "OH: hello anonymous",
@@ -557,6 +557,6 @@
   {
     "content": "OH: the FatBoy thesis is Ethereum 3.0",
     "tweet_id": "1857795277106594265",
-    "engagement_score": 1.62
+    "engagement_score": 1.61
   }
 ]
