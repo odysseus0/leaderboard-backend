@@ -2,17 +2,17 @@
   {
     "content": "OH: (security researcher) There should be a space-based layer-1 network deployed on nano satellites, designed to serve as the root of trust and final authority",
     "tweet_id": "1857795908601077974",
-    "engagement_score": 496.19
+    "engagement_score": 496.2
   },
   {
     "content": "Hello from Devcon 🔥🚀",
     "tweet_id": "1856668703036711163",
-    "engagement_score": 225.51
+    "engagement_score": 224.51
   },
   {
     "content": "OH: nice opsec btw lmfaoooo",
     "tweet_id": "1857216715295261061",
-    "engagement_score": 222.24
+    "engagement_score": 221.24
   },
   {
     "content": "OH: have you hugged a solo staker today?",
@@ -27,12 +27,12 @@
   {
     "content": "OH: where's c-node???",
     "tweet_id": "1856599589035401593",
-    "engagement_score": 44.59
+    "engagement_score": 44.57
   },
   {
     "content": "OH: mopeds are the L2s of Bangkok",
     "tweet_id": "1857795629885391199",
-    "engagement_score": 35.04
+    "engagement_score": 35.02
   },
   {
     "content": "OH: (researcher) It's cheaper to launch Us-east1 to Space than open source RTL to GSD for a single chip.",
@@ -70,11 +70,6 @@
     "engagement_score": 15.58
   },
   {
-    "content": "OH: Before I say anything about Starkware, please make sure you don’t have any beepers on you",
-    "tweet_id": "1857065435406959043",
-    "engagement_score": 14.57
-  },
-  {
     "content": "OH: Nurturing diversity is critical, biodiversity is the only way organisms in a garden can survive.",
     "tweet_id": "1856667983482876297",
     "engagement_score": 14.56
@@ -85,14 +80,14 @@
     "engagement_score": 14.31
   },
   {
-    "content": "OH: Eigenlayer wants to coordinate the human race but they can’t even coordinate an org of 50 people",
-    "tweet_id": "1857064135294406945",
-    "engagement_score": 13.51
+    "content": "OH: Before I say anything about Starkware, please make sure you don’t have any beepers on you",
+    "tweet_id": "1857065435406959043",
+    "engagement_score": 13.57
   },
   {
     "content": "OH: the beau-tee!",
     "tweet_id": "1856541893103882663",
-    "engagement_score": 12.99
+    "engagement_score": 12.98
   },
   {
     "content": "OH: You have to imagine wealth as vectors in 3D-space",
@@ -108,6 +103,11 @@
     "content": "OH: 1token = 1like",
     "tweet_id": "1856415515192827973",
     "engagement_score": 12.58
+  },
+  {
+    "content": "OH: Eigenlayer wants to coordinate the human race but they can’t even coordinate an org of 50 people",
+    "tweet_id": "1857064135294406945",
+    "engagement_score": 12.51
   },
   {
     "content": "OH: never ask:\na man his salary\na woman her age\n@0xBalloonLover why they never critique succinct",
@@ -138,11 +138,6 @@
     "content": "OH: net worth of someone who…\n1. arrived for vitaliks panel, left for Phil\n2. arrived for Phil panel + beam chain\n3. arrived only for beam chain\n4. had a comfy seat for all three",
     "tweet_id": "1856386467842453668",
     "engagement_score": 10.6
-  },
-  {
-    "content": "OH: every time you spoke on that panel i could feel the value of my equity decreasing",
-    "tweet_id": "1856670363955937616",
-    "engagement_score": 10.59
   },
   {
     "content": "OH: \"Frogs are cool\"",
@@ -192,12 +187,17 @@
   {
     "content": "OH: The reason market is up is that every degen at Devcon left their hw wallet back home",
     "tweet_id": "1856350759509733604",
-    "engagement_score": 9.72
+    "engagement_score": 9.71
   },
   {
     "content": "OH: It's dengue not dengo. 🥴",
     "tweet_id": "1856372032201474264",
     "engagement_score": 9.66
+  },
+  {
+    "content": "OH: every time you spoke on that panel i could feel the value of my equity decreasing",
+    "tweet_id": "1856670363955937616",
+    "engagement_score": 9.59
   },
   {
     "content": "OH: \n\n\"How come @SuccinctLabs copied @RiscZero and still have worse performance?\"\n\n\"I think they just forgot to copy the optimizations\"",
@@ -240,11 +240,6 @@
     "engagement_score": 9.04
   },
   {
-    "content": "OH: That guy was doing ZK before Circom; an actual masochist",
-    "tweet_id": "1856902678212641279",
-    "engagement_score": 8.67
-  },
-  {
     "content": "OH: Zk is overestimated. Isnt it?",
     "tweet_id": "1856363701927915872",
     "engagement_score": 8.43
@@ -267,7 +262,12 @@
   {
     "content": "OH: Best time this year is to meet up so many fantastic women here",
     "tweet_id": "1857453784823103983",
-    "engagement_score": 7.68
+    "engagement_score": 7.67
+  },
+  {
+    "content": "OH: That guy was doing ZK before Circom; an actual masochist",
+    "tweet_id": "1856902678212641279",
+    "engagement_score": 7.67
   },
   {
     "content": "OH: Canada is basically America’s L2. It’s not a sidechain, it has no independent security…",
@@ -435,11 +435,6 @@
     "engagement_score": 4.75
   },
   {
-    "content": "OH: interop is the word of the day",
-    "tweet_id": "1857022619633000819",
-    "engagement_score": 4.69
-  },
-  {
     "content": "OH: Joe and Justin must have the same public speaking coach.",
     "tweet_id": "1857010991671697430",
     "engagement_score": 4.62
@@ -495,6 +490,11 @@
     "engagement_score": 3.69
   },
   {
+    "content": "OH: interop is the word of the day",
+    "tweet_id": "1857022619633000819",
+    "engagement_score": 3.69
+  },
+  {
     "content": "OH: I'm gonna jailbreak this content filter, watch me",
     "tweet_id": "1857795867534594396",
     "engagement_score": 3.66
@@ -547,7 +547,7 @@
   {
     "content": "OH: I heard that @n_yushkevich is at DevCon with the @quicknode team?",
     "tweet_id": "1856281881093853387",
-    "engagement_score": 2.6
+    "engagement_score": 2.59
   },
   {
     "content": "OH: Just trust the curves, man",
