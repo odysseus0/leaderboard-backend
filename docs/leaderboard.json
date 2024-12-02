@@ -170,6 +170,11 @@
     "engagement_score": 10.16
   },
   {
+    "content": "OH: what even is an AI circuit breaker at the sequence level? Just marketing?",
+    "tweet_id": "1857828855773360459",
+    "engagement_score": 9.9
+  },
+  {
     "content": "OH: the idea of money is\nflawed; money is \na constraint\nonce we free ourselves \nfrom that constraint, we is\nenlightened",
     "tweet_id": "1855691554171555962",
     "engagement_score": 9.8
@@ -235,11 +240,6 @@
     "engagement_score": 9.04
   },
   {
-    "content": "OH: what even is an AI circuit breaker at the sequence level? Just marketing?",
-    "tweet_id": "1857828855773360459",
-    "engagement_score": 8.9
-  },
-  {
     "content": "OH: That guy was doing ZK before Circom; an actual masochist",
     "tweet_id": "1856902678212641279",
     "engagement_score": 8.67
@@ -288,6 +288,11 @@
     "content": "OH: the real Satoshi is the friends we made along the way",
     "tweet_id": "1855985928810234115",
     "engagement_score": 6.65
+  },
+  {
+    "content": "OH: Apparently, mango juice is good stuff",
+    "tweet_id": "1857355244096667815",
+    "engagement_score": 6.57
   },
   {
     "content": "OH: I post things that shouldn't be posted, like the fact that I used to be human.",
@@ -358,11 +363,6 @@
     "content": "OH: vitalik was here",
     "tweet_id": "1856118420892463122",
     "engagement_score": 5.58
-  },
-  {
-    "content": "OH: Apparently, mango juice is good stuff",
-    "tweet_id": "1857355244096667815",
-    "engagement_score": 5.57
   },
   {
     "content": "OH: stop chasing the dragon… stop chasing napkin protocol development",
