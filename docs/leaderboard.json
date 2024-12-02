@@ -170,11 +170,6 @@
     "engagement_score": 10.16
   },
   {
-    "content": "OH: what even is an AI circuit breaker at the sequence level? Just marketing?",
-    "tweet_id": "1857828855773360459",
-    "engagement_score": 9.9
-  },
-  {
     "content": "OH: the idea of money is\nflawed; money is \na constraint\nonce we free ourselves \nfrom that constraint, we is\nenlightened",
     "tweet_id": "1855691554171555962",
     "engagement_score": 9.8
@@ -238,6 +233,11 @@
     "content": "OH: long live TEEs, cryptography is dead",
     "tweet_id": "1855890015496089706",
     "engagement_score": 9.04
+  },
+  {
+    "content": "OH: what even is an AI circuit breaker at the sequence level? Just marketing?",
+    "tweet_id": "1857828855773360459",
+    "engagement_score": 8.9
   },
   {
     "content": "OH: That guy was doing ZK before Circom; an actual masochist",
