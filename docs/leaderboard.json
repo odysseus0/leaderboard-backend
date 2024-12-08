@@ -7,12 +7,12 @@
   {
     "content": "Hello from Devcon 🔥🚀",
     "tweet_id": "1856668703036711163",
-    "engagement_score": 225.81
+    "engagement_score": 224.81
   },
   {
     "content": "OH: nice opsec btw lmfaoooo",
     "tweet_id": "1857216715295261061",
-    "engagement_score": 222.54
+    "engagement_score": 221.54
   },
   {
     "content": "OH: have you hugged a solo staker today?",
@@ -70,11 +70,6 @@
     "engagement_score": 15.58
   },
   {
-    "content": "OH: Before I say anything about Starkware, please make sure you don’t have any beepers on you",
-    "tweet_id": "1857065435406959043",
-    "engagement_score": 14.57
-  },
-  {
     "content": "OH: Nurturing diversity is critical, biodiversity is the only way organisms in a garden can survive.",
     "tweet_id": "1856667983482876297",
     "engagement_score": 14.56
@@ -85,9 +80,9 @@
     "engagement_score": 14.31
   },
   {
-    "content": "OH: Eigenlayer wants to coordinate the human race but they can’t even coordinate an org of 50 people",
-    "tweet_id": "1857064135294406945",
-    "engagement_score": 13.51
+    "content": "OH: Before I say anything about Starkware, please make sure you don’t have any beepers on you",
+    "tweet_id": "1857065435406959043",
+    "engagement_score": 13.57
   },
   {
     "content": "OH: the beau-tee!",
@@ -110,9 +105,9 @@
     "engagement_score": 12.58
   },
   {
-    "content": "OH: never ask:\na man his salary\na woman her age\n@0xBalloonLover why they never critique succinct",
-    "tweet_id": "1857265780133425350",
-    "engagement_score": 12.24
+    "content": "OH: Eigenlayer wants to coordinate the human race but they can’t even coordinate an org of 50 people",
+    "tweet_id": "1857064135294406945",
+    "engagement_score": 12.51
   },
   {
     "content": "OH: test test if this works im sold on tees",
@@ -125,6 +120,11 @@
     "engagement_score": 11.61
   },
   {
+    "content": "OH: never ask:\na man his salary\na woman her age\n@0xBalloonLover why they never critique succinct",
+    "tweet_id": "1857265780133425350",
+    "engagement_score": 11.24
+  },
+  {
     "content": "OH: why would you think max is bad at coordinating? He planned a roast of Ethereum, roasted bankless, then ran out of content by not telling enough people to prepare jokes.",
     "tweet_id": "1857076164768022919",
     "engagement_score": 11.08
@@ -133,11 +133,6 @@
     "content": "OH: Cypherpunk movement is coming to life...",
     "tweet_id": "1856265346690216368",
     "engagement_score": 10.91
-  },
-  {
-    "content": "OH: every time you spoke on that panel i could feel the value of my equity decreasing",
-    "tweet_id": "1856670363955937616",
-    "engagement_score": 10.6
   },
   {
     "content": "OH: net worth of someone who…\n1. arrived for vitaliks panel, left for Phil\n2. arrived for Phil panel + beam chain\n3. arrived only for beam chain\n4. had a comfy seat for all three",
@@ -200,6 +195,11 @@
     "engagement_score": 9.66
   },
   {
+    "content": "OH: every time you spoke on that panel i could feel the value of my equity decreasing",
+    "tweet_id": "1856670363955937616",
+    "engagement_score": 9.6
+  },
+  {
     "content": "OH: \n\n\"How come @SuccinctLabs copied @RiscZero and still have worse performance?\"\n\n\"I think they just forgot to copy the optimizations\"",
     "tweet_id": "1857329086399680949",
     "engagement_score": 9.58
@@ -240,11 +240,6 @@
     "engagement_score": 9.04
   },
   {
-    "content": "OH: That guy was doing ZK before Circom; an actual masochist",
-    "tweet_id": "1856902678212641279",
-    "engagement_score": 8.67
-  },
-  {
     "content": "OH: Zk is overestimated. Isnt it?",
     "tweet_id": "1856363701927915872",
     "engagement_score": 8.45
@@ -268,6 +263,11 @@
     "content": "OH: lots of ‘please clap’ energy from justin announcing beam chain",
     "tweet_id": "1856276729771204742",
     "engagement_score": 7.81
+  },
+  {
+    "content": "OH: That guy was doing ZK before Circom; an actual masochist",
+    "tweet_id": "1856902678212641279",
+    "engagement_score": 7.67
   },
   {
     "content": "OH: Canada is basically America’s L2. It’s not a sidechain, it has no independent security…",
@@ -435,11 +435,6 @@
     "engagement_score": 4.75
   },
   {
-    "content": "OH: interop is the word of the day",
-    "tweet_id": "1857022619633000819",
-    "engagement_score": 4.69
-  },
-  {
     "content": "OH: Joe and Justin must have the same public speaking coach.",
     "tweet_id": "1857010991671697430",
     "engagement_score": 4.62
@@ -493,6 +488,11 @@
     "content": "OH: the @0xShitTrader guide to being a tough guy: make a manifesto exposing the \"ethereum deepstate,\" show everybody it at Zuzalu, and then launder it through a sesame street anon (hi @0xballoonlover)",
     "tweet_id": "1857431563698417716",
     "engagement_score": 3.73
+  },
+  {
+    "content": "OH: interop is the word of the day",
+    "tweet_id": "1857022619633000819",
+    "engagement_score": 3.69
   },
   {
     "content": "OH: I'm gonna jailbreak this content filter, watch me",
