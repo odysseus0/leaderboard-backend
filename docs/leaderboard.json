@@ -2,7 +2,7 @@
   {
     "content": "OH: (security researcher) There should be a space-based layer-1 network deployed on nano satellites, designed to serve as the root of trust and final authority",
     "tweet_id": "1857795908601077974",
-    "engagement_score": 496.17
+    "engagement_score": 496.16
   },
   {
     "content": "Hello from Devcon 🔥🚀",
@@ -12,7 +12,7 @@
   {
     "content": "OH: nice opsec btw lmfaoooo",
     "tweet_id": "1857216715295261061",
-    "engagement_score": 222.55
+    "engagement_score": 222.54
   },
   {
     "content": "OH: have you hugged a solo staker today?",
@@ -37,17 +37,17 @@
   {
     "content": "OH: (researcher) It's cheaper to launch Us-east1 to Space than open source RTL to GSD for a single chip.",
     "tweet_id": "1856683778304876816",
-    "engagement_score": 33.32
+    "engagement_score": 33.31
   },
   {
     "content": "OH: The ticker is echo",
     "tweet_id": "1857080431960547526",
-    "engagement_score": 27.53
+    "engagement_score": 27.52
   },
   {
     "content": "OH: TEE normalization is the CIAs attempt at infiltrating cryptography",
     "tweet_id": "1856649745009160604",
-    "engagement_score": 25.87
+    "engagement_score": 25.86
   },
   {
     "content": "OH: three cheap parachutes are better than one expensive one, discuss",
@@ -57,7 +57,7 @@
   {
     "content": "OH: incredible result of multi million dollar grant to @0xPARC is .... frog hats",
     "tweet_id": "1856303848203145556",
-    "engagement_score": 18.11
+    "engagement_score": 18.1
   },
   {
     "content": "OH: okay but the laser shooting through the ethereum logo is worth at least a year of roadmap",
@@ -67,17 +67,17 @@
   {
     "content": "OH: all blob no gas in 2025",
     "tweet_id": "1856370815702639021",
-    "engagement_score": 15.59
+    "engagement_score": 15.58
   },
   {
     "content": "OH: Before I say anything about Starkware, please make sure you don’t have any beepers on you",
     "tweet_id": "1857065435406959043",
-    "engagement_score": 14.58
+    "engagement_score": 14.57
   },
   {
     "content": "OH: Nurturing diversity is critical, biodiversity is the only way organisms in a garden can survive.",
     "tweet_id": "1856667983482876297",
-    "engagement_score": 14.58
+    "engagement_score": 14.57
   },
   {
     "content": "OH: make sure you spell \"Unformat\" correctly in Grab tonight\n\"Uniform studio\" sucks dude",
@@ -87,7 +87,7 @@
   {
     "content": "OH: Eigenlayer wants to coordinate the human race but they can’t even coordinate an org of 50 people",
     "tweet_id": "1857064135294406945",
-    "engagement_score": 13.52
+    "engagement_score": 13.51
   },
   {
     "content": "OH: the beau-tee!",
@@ -102,12 +102,17 @@
   {
     "content": "OH: Ahhhhhhhh im beamin",
     "tweet_id": "1856379053323739515",
-    "engagement_score": 12.75
+    "engagement_score": 12.74
+  },
+  {
+    "content": "OH: 1token = 1like",
+    "tweet_id": "1856415515192827973",
+    "engagement_score": 12.58
   },
   {
     "content": "OH: never ask:\na man his salary\na woman her age\n@0xBalloonLover why they never critique succinct",
     "tweet_id": "1857265780133425350",
-    "engagement_score": 12.24
+    "engagement_score": 12.25
   },
   {
     "content": "OH: test test if this works im sold on tees",
@@ -120,11 +125,6 @@
     "engagement_score": 11.61
   },
   {
-    "content": "OH: 1token = 1like",
-    "tweet_id": "1856415515192827973",
-    "engagement_score": 11.59
-  },
-  {
     "content": "OH: why would you think max is bad at coordinating? He planned a roast of Ethereum, roasted bankless, then ran out of content by not telling enough people to prepare jokes.",
     "tweet_id": "1857076164768022919",
     "engagement_score": 11.09
@@ -135,14 +135,14 @@
     "engagement_score": 10.91
   },
   {
-    "content": "OH: every time you spoke on that panel i could feel the value of my equity decreasing",
-    "tweet_id": "1856670363955937616",
-    "engagement_score": 10.61
-  },
-  {
     "content": "OH: net worth of someone who…\n1. arrived for vitaliks panel, left for Phil\n2. arrived for Phil panel + beam chain\n3. arrived only for beam chain\n4. had a comfy seat for all three",
     "tweet_id": "1856386467842453668",
     "engagement_score": 10.61
+  },
+  {
+    "content": "OH: every time you spoke on that panel i could feel the value of my equity decreasing",
+    "tweet_id": "1856670363955937616",
+    "engagement_score": 10.6
   },
   {
     "content": "OH: Building on monad is like paying for your sister to attend your high-school reunion",
@@ -187,7 +187,7 @@
   {
     "content": "OH: it’s about the dream chain not the beam chain",
     "tweet_id": "1857078665281970443",
-    "engagement_score": 9.75
+    "engagement_score": 9.74
   },
   {
     "content": "OH: The reason market is up is that every degen at Devcon left their hw wallet back home",
@@ -305,19 +305,19 @@
     "engagement_score": 6.4
   },
   {
-    "content": "OH: i like mermaids over reverse mermaids",
-    "tweet_id": "1856699381698687426",
-    "engagement_score": 6.39
-  },
-  {
     "content": "OH: A place for friendship shouldn't be for just one nation.",
     "tweet_id": "1857379242314539122",
     "engagement_score": 6.38
   },
   {
+    "content": "OH: i like mermaids over reverse mermaids",
+    "tweet_id": "1856699381698687426",
+    "engagement_score": 6.38
+  },
+  {
     "content": "OH: eth surges as local critic (@0xBalloonLover) is revealed to be a solana multisig @0xShitTrader, @rajivpoc, and @bqbrady.",
     "tweet_id": "1857215187113136143",
-    "engagement_score": 6.35
+    "engagement_score": 6.34
   },
   {
     "content": "OH: Sure Grandma let's get you to bed",
@@ -327,7 +327,7 @@
   {
     "content": "OH: I think that last panel could've used a bit more subtraction, if you know what I mean...",
     "tweet_id": "1857374444970184722",
-    "engagement_score": 6.26
+    "engagement_score": 6.25
   },
   {
     "content": "OH: I'd tell you the joke, but MH has me under NDA :(",
@@ -342,12 +342,12 @@
   {
     "content": "OH: The Ethereum Roast was a clear indicator @MaxResnick1 is not allergic to long term thinking.\n\nWe don’t need funny jokes, edible food or a well planned event, today. \n\nWe have 5 years — like zoom out.",
     "tweet_id": "1857213326423408943",
-    "engagement_score": 6.03
+    "engagement_score": 6.02
   },
   {
     "content": "OH at Lumphini Park:\n\n“Are these fish gonna be ok with all these styrofoam??”\n“I’m sure they are used to it”",
     "tweet_id": "1857802013494456330",
-    "engagement_score": 5.95
+    "engagement_score": 5.94
   },
   {
     "content": "OH: First time dengo not that bad, second time dengo and death.",
@@ -382,7 +382,7 @@
   {
     "content": "OH: you know kitkat doesn’t have silver foil anymore",
     "tweet_id": "1856600630095208518",
-    "engagement_score": 5.36
+    "engagement_score": 5.35
   },
   {
     "content": "OH: Hello. I am at Devcon 🙌🏻",
@@ -397,7 +397,7 @@
   {
     "content": "OH: None of these people are Ethereum.",
     "tweet_id": "1856612248854126898",
-    "engagement_score": 5.29
+    "engagement_score": 5.28
   },
   {
     "content": "OH: just spent 20 minutes writing a tweet and then immediately deleted it bc i was like what am i doing with my life",
@@ -492,7 +492,7 @@
   {
     "content": "OH: the @0xShitTrader guide to being a tough guy: make a manifesto exposing the \"ethereum deepstate,\" show everybody it at Zuzalu, and then launder it through a sesame street anon (hi @0xballoonlover)",
     "tweet_id": "1857431563698417716",
-    "engagement_score": 3.74
+    "engagement_score": 3.73
   },
   {
     "content": "OH: I'm gonna jailbreak this content filter, watch me",
@@ -522,12 +522,12 @@
   {
     "content": "OH: this is not cool",
     "tweet_id": "1857418486433140996",
-    "engagement_score": 3.28
+    "engagement_score": 3.27
   },
   {
     "content": "OH: 👍",
     "tweet_id": "1857417623727694151",
-    "engagement_score": 3.18
+    "engagement_score": 3.17
   },
   {
     "content": "OH: hello anonymous",
@@ -557,6 +557,6 @@
   {
     "content": "OH: the FatBoy thesis is Ethereum 3.0",
     "tweet_id": "1857795277106594265",
-    "engagement_score": 1.69
+    "engagement_score": 1.68
   }
 ]
