@@ -17,7 +17,7 @@
   {
     "content": "OH: have you hugged a solo staker today?",
     "tweet_id": "1856115200660746546",
-    "engagement_score": 175.07
+    "engagement_score": 175.08
   },
   {
     "content": "OH: neeraj didn't know what teleport was..",
@@ -27,7 +27,7 @@
   {
     "content": "OH: where's c-node???",
     "tweet_id": "1856599589035401593",
-    "engagement_score": 44.64
+    "engagement_score": 43.64
   },
   {
     "content": "OH: mopeds are the L2s of Bangkok",
@@ -90,11 +90,6 @@
     "engagement_score": 13.52
   },
   {
-    "content": "OH: the beau-tee!",
-    "tweet_id": "1856541893103882663",
-    "engagement_score": 13.19
-  },
-  {
     "content": "OH: You have to imagine wealth as vectors in 3D-space",
     "tweet_id": "1855690771845783560",
     "engagement_score": 12.77
@@ -113,6 +108,11 @@
     "content": "OH: never ask:\na man his salary\na woman her age\n@0xBalloonLover why they never critique succinct",
     "tweet_id": "1857265780133425350",
     "engagement_score": 12.25
+  },
+  {
+    "content": "OH: the beau-tee!",
+    "tweet_id": "1856541893103882663",
+    "engagement_score": 12.19
   },
   {
     "content": "OH: test test if this works im sold on tees",
@@ -257,7 +257,7 @@
   {
     "content": "OH: Best time this year is to meet up so many fantastic women here",
     "tweet_id": "1857453784823103983",
-    "engagement_score": 7.95
+    "engagement_score": 7.96
   },
   {
     "content": "OH: Sir. A second Dan Robinson auction mechanism has hit a Paradigm portco",
@@ -347,7 +347,7 @@
   {
     "content": "OH at Lumphini Park:\n\n“Are these fish gonna be ok with all these styrofoam??”\n“I’m sure they are used to it”",
     "tweet_id": "1857802013494456330",
-    "engagement_score": 5.96
+    "engagement_score": 5.97
   },
   {
     "content": "OH: First time dengo not that bad, second time dengo and death.",
@@ -378,16 +378,6 @@
     "content": "OH: Make me great again",
     "tweet_id": "1856947263924298047",
     "engagement_score": 5.42
-  },
-  {
-    "content": "OH: you know kitkat doesn’t have silver foil anymore",
-    "tweet_id": "1856600630095208518",
-    "engagement_score": 5.36
-  },
-  {
-    "content": "OH: Hello. I am at Devcon 🙌🏻",
-    "tweet_id": "1856547167118172216",
-    "engagement_score": 5.35
   },
   {
     "content": "OH: Yeah, there's gonna be a rug. TBD",
@@ -468,6 +458,16 @@
     "content": "OH: new crypto kids gonna have to google what Ethereum even is",
     "tweet_id": "1856209141783556287",
     "engagement_score": 4.46
+  },
+  {
+    "content": "OH: you know kitkat doesn’t have silver foil anymore",
+    "tweet_id": "1856600630095208518",
+    "engagement_score": 4.36
+  },
+  {
+    "content": "OH: Hello. I am at Devcon 🙌🏻",
+    "tweet_id": "1856547167118172216",
+    "engagement_score": 4.35
   },
   {
     "content": "OH: tweet tweet tweet and grow your wealth",
