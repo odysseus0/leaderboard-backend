@@ -7,12 +7,12 @@
   {
     "content": "Hello from Devcon 🔥🚀",
     "tweet_id": "1856668703036711163",
-    "engagement_score": 225.83
+    "engagement_score": 224.83
   },
   {
     "content": "OH: nice opsec btw lmfaoooo",
     "tweet_id": "1857216715295261061",
-    "engagement_score": 222.56
+    "engagement_score": 221.56
   },
   {
     "content": "OH: have you hugged a solo staker today?",
@@ -27,7 +27,7 @@
   {
     "content": "OH: where's c-node???",
     "tweet_id": "1856599589035401593",
-    "engagement_score": 44.66
+    "engagement_score": 44.65
   },
   {
     "content": "OH: mopeds are the L2s of Bangkok",
@@ -70,11 +70,6 @@
     "engagement_score": 15.6
   },
   {
-    "content": "OH: Before I say anything about Starkware, please make sure you don’t have any beepers on you",
-    "tweet_id": "1857065435406959043",
-    "engagement_score": 14.59
-  },
-  {
     "content": "OH: Nurturing diversity is critical, biodiversity is the only way organisms in a garden can survive.",
     "tweet_id": "1856667983482876297",
     "engagement_score": 14.59
@@ -85,9 +80,9 @@
     "engagement_score": 14.33
   },
   {
-    "content": "OH: Eigenlayer wants to coordinate the human race but they can’t even coordinate an org of 50 people",
-    "tweet_id": "1857064135294406945",
-    "engagement_score": 13.53
+    "content": "OH: Before I say anything about Starkware, please make sure you don’t have any beepers on you",
+    "tweet_id": "1857065435406959043",
+    "engagement_score": 13.59
   },
   {
     "content": "OH: the beau-tee!",
@@ -108,6 +103,11 @@
     "content": "OH: 1token = 1like",
     "tweet_id": "1856415515192827973",
     "engagement_score": 12.6
+  },
+  {
+    "content": "OH: Eigenlayer wants to coordinate the human race but they can’t even coordinate an org of 50 people",
+    "tweet_id": "1857064135294406945",
+    "engagement_score": 12.53
   },
   {
     "content": "OH: never ask:\na man his salary\na woman her age\n@0xBalloonLover why they never critique succinct",
@@ -132,7 +132,7 @@
   {
     "content": "OH: what even is an AI circuit breaker at the sequence level? Just marketing?",
     "tweet_id": "1857828855773360459",
-    "engagement_score": 11.21
+    "engagement_score": 11.2
   },
   {
     "content": "OH: why would you think max is bad at coordinating? He planned a roast of Ethereum, roasted bankless, then ran out of content by not telling enough people to prepare jokes.",
@@ -143,11 +143,6 @@
     "content": "OH: Cypherpunk movement is coming to life...",
     "tweet_id": "1856265346690216368",
     "engagement_score": 10.92
-  },
-  {
-    "content": "OH: every time you spoke on that panel i could feel the value of my equity decreasing",
-    "tweet_id": "1856670363955937616",
-    "engagement_score": 10.62
   },
   {
     "content": "OH: net worth of someone who…\n1. arrived for vitaliks panel, left for Phil\n2. arrived for Phil panel + beam chain\n3. arrived only for beam chain\n4. had a comfy seat for all three",
@@ -205,6 +200,11 @@
     "engagement_score": 9.68
   },
   {
+    "content": "OH: every time you spoke on that panel i could feel the value of my equity decreasing",
+    "tweet_id": "1856670363955937616",
+    "engagement_score": 9.62
+  },
+  {
     "content": "OH: there’s a private key hidden somewhere on level 2. a prime number room has stickers in it, the adhesive will reveal all",
     "tweet_id": "1857051996961861936",
     "engagement_score": 9.56
@@ -245,11 +245,6 @@
     "engagement_score": 8.82
   },
   {
-    "content": "OH: That guy was doing ZK before Circom; an actual masochist",
-    "tweet_id": "1856902678212641279",
-    "engagement_score": 8.69
-  },
-  {
     "content": "OH: Zk is overestimated. Isnt it?",
     "tweet_id": "1856363701927915872",
     "engagement_score": 8.48
@@ -260,14 +255,14 @@
     "engagement_score": 8.42
   },
   {
-    "content": "OH at Lumphini Park:\n\n“Are these fish gonna be ok with all these styrofoam??”\n“I’m sure they are used to it”",
-    "tweet_id": "1857802013494456330",
-    "engagement_score": 8.01
-  },
-  {
     "content": "OH: Best time this year is to meet up so many fantastic women here",
     "tweet_id": "1857453784823103983",
     "engagement_score": 8.0
+  },
+  {
+    "content": "OH at Lumphini Park:\n\n“Are these fish gonna be ok with all these styrofoam??”\n“I’m sure they are used to it”",
+    "tweet_id": "1857802013494456330",
+    "engagement_score": 7.99
   },
   {
     "content": "OH: Sir. A second Dan Robinson auction mechanism has hit a Paradigm portco",
@@ -278,6 +273,11 @@
     "content": "OH: level 99 security is a TEE secured by Paradigm NDA",
     "tweet_id": "1855797588789776474",
     "engagement_score": 7.74
+  },
+  {
+    "content": "OH: That guy was doing ZK before Circom; an actual masochist",
+    "tweet_id": "1856902678212641279",
+    "engagement_score": 7.69
   },
   {
     "content": "OH: the real Satoshi is the friends we made along the way",
@@ -307,7 +307,7 @@
   {
     "content": "OH: might be a hot take, but wagyu and caviar are overrated",
     "tweet_id": "1857801654344524221",
-    "engagement_score": 6.44
+    "engagement_score": 6.43
   },
   {
     "content": "OH: i like mermaids over reverse mermaids",
@@ -367,7 +367,7 @@
   {
     "content": "OH: Who is building SOL on Ethereum?",
     "tweet_id": "1859950062828171564",
-    "engagement_score": 5.61
+    "engagement_score": 5.6
   },
   {
     "content": "OH: vitalik was here",
@@ -445,11 +445,6 @@
     "engagement_score": 4.76
   },
   {
-    "content": "OH: interop is the word of the day",
-    "tweet_id": "1857022619633000819",
-    "engagement_score": 4.71
-  },
-  {
     "content": "OH: Joe and Justin must have the same public speaking coach.",
     "tweet_id": "1857010991671697430",
     "engagement_score": 4.64
@@ -492,12 +487,17 @@
   {
     "content": "OH: the @0xShitTrader guide to being a tough guy: make a manifesto exposing the \"ethereum deepstate,\" show everybody it at Zuzalu, and then launder it through a sesame street anon (hi @0xballoonlover)",
     "tweet_id": "1857431563698417716",
-    "engagement_score": 3.76
+    "engagement_score": 3.75
   },
   {
     "content": "OH: I'm gonna jailbreak this content filter, watch me",
     "tweet_id": "1857795867534594396",
     "engagement_score": 3.72
+  },
+  {
+    "content": "OH: interop is the word of the day",
+    "tweet_id": "1857022619633000819",
+    "engagement_score": 3.71
   },
   {
     "content": "OH: weed?? Nono I thought you said wheat",
