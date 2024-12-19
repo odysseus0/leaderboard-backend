@@ -7,12 +7,12 @@
   {
     "content": "Hello from Devcon 🔥🚀",
     "tweet_id": "1856668703036711163",
-    "engagement_score": 224.83
+    "engagement_score": 225.83
   },
   {
     "content": "OH: nice opsec btw lmfaoooo",
     "tweet_id": "1857216715295261061",
-    "engagement_score": 221.56
+    "engagement_score": 222.56
   },
   {
     "content": "OH: have you hugged a solo staker today?",
@@ -75,6 +75,11 @@
     "engagement_score": 14.6
   },
   {
+    "content": "OH: Before I say anything about Starkware, please make sure you don’t have any beepers on you",
+    "tweet_id": "1857065435406959043",
+    "engagement_score": 13.59
+  },
+  {
     "content": "OH: the beau-tee!",
     "tweet_id": "1856541893103882663",
     "engagement_score": 13.34
@@ -95,9 +100,9 @@
     "engagement_score": 12.6
   },
   {
-    "content": "OH: Before I say anything about Starkware, please make sure you don’t have any beepers on you",
-    "tweet_id": "1857065435406959043",
-    "engagement_score": 12.59
+    "content": "OH: Eigenlayer wants to coordinate the human race but they can’t even coordinate an org of 50 people",
+    "tweet_id": "1857064135294406945",
+    "engagement_score": 12.53
   },
   {
     "content": "OH: never ask:\na man his salary\na woman her age\n@0xBalloonLover why they never critique succinct",
@@ -115,11 +120,6 @@
     "engagement_score": 11.62
   },
   {
-    "content": "OH: Eigenlayer wants to coordinate the human race but they can’t even coordinate an org of 50 people",
-    "tweet_id": "1857064135294406945",
-    "engagement_score": 11.53
-  },
-  {
     "content": "OH: test test if this works im sold on tees",
     "tweet_id": "1856396292181659947",
     "engagement_score": 10.94
@@ -135,6 +135,11 @@
     "engagement_score": 10.64
   },
   {
+    "content": "OH: every time you spoke on that panel i could feel the value of my equity decreasing",
+    "tweet_id": "1856670363955937616",
+    "engagement_score": 10.63
+  },
+  {
     "content": "OH: \n\n\"How come @SuccinctLabs copied @RiscZero and still have worse performance?\"\n\n\"I think they just forgot to copy the optimizations\"",
     "tweet_id": "1857329086399680949",
     "engagement_score": 10.6
@@ -147,7 +152,7 @@
   {
     "content": "OH: what even is an AI circuit breaker at the sequence level? Just marketing?",
     "tweet_id": "1857828855773360459",
-    "engagement_score": 10.23
+    "engagement_score": 10.24
   },
   {
     "content": "OH: @malleshpai drafts all SMG papers during lunch break on a napkin before he goes back to more serious work.",
@@ -163,11 +168,6 @@
     "content": "OH: the idea of money is\nflawed; money is \na constraint\nonce we free ourselves \nfrom that constraint, we is\nenlightened",
     "tweet_id": "1855691554171555962",
     "engagement_score": 9.81
-  },
-  {
-    "content": "OH: every time you spoke on that panel i could feel the value of my equity decreasing",
-    "tweet_id": "1856670363955937616",
-    "engagement_score": 9.63
   },
   {
     "content": "OH: net worth of someone who…\n1. arrived for vitaliks panel, left for Phil\n2. arrived for Phil panel + beam chain\n3. arrived only for beam chain\n4. had a comfy seat for all three",
@@ -220,6 +220,11 @@
     "engagement_score": 8.73
   },
   {
+    "content": "OH: That guy was doing ZK before Circom; an actual masochist",
+    "tweet_id": "1856902678212641279",
+    "engagement_score": 8.69
+  },
+  {
     "content": "OH: It's dengue not dengo. 🥴",
     "tweet_id": "1856372032201474264",
     "engagement_score": 8.68
@@ -260,11 +265,6 @@
     "engagement_score": 7.74
   },
   {
-    "content": "OH: That guy was doing ZK before Circom; an actual masochist",
-    "tweet_id": "1856902678212641279",
-    "engagement_score": 7.69
-  },
-  {
     "content": "OH: the real Satoshi is the friends we made along the way",
     "tweet_id": "1855985928810234115",
     "engagement_score": 7.66
@@ -285,13 +285,13 @@
     "engagement_score": 7.09
   },
   {
-    "content": "OH at Lumphini Park:\n\n“Are these fish gonna be ok with all these styrofoam??”\n“I’m sure they are used to it”",
-    "tweet_id": "1857802013494456330",
-    "engagement_score": 7.03
-  },
-  {
     "content": "OH: Best time this year is to meet up so many fantastic women here",
     "tweet_id": "1857453784823103983",
+    "engagement_score": 7.04
+  },
+  {
+    "content": "OH at Lumphini Park:\n\n“Are these fish gonna be ok with all these styrofoam??”\n“I’m sure they are used to it”",
+    "tweet_id": "1857802013494456330",
     "engagement_score": 7.03
   },
   {
@@ -332,7 +332,7 @@
   {
     "content": "OH: Who is building SOL on Ethereum?",
     "tweet_id": "1859950062828171564",
-    "engagement_score": 5.63
+    "engagement_score": 5.64
   },
   {
     "content": "OH: Apparently, mango juice is good stuff",
@@ -440,6 +440,11 @@
     "engagement_score": 4.75
   },
   {
+    "content": "OH: interop is the word of the day",
+    "tweet_id": "1857022619633000819",
+    "engagement_score": 4.71
+  },
+  {
     "content": "OH: megaETH are the Trump kids (and the founders can’t even vote).\nSolana are the republicans.\nFlashbots and Ethereum are the center-left democrats.",
     "tweet_id": "1857800885058806217",
     "engagement_score": 4.53
@@ -468,11 +473,6 @@
     "content": "OH: the @0xShitTrader guide to being a tough guy: make a manifesto exposing the \"ethereum deepstate,\" show everybody it at Zuzalu, and then launder it through a sesame street anon (hi @0xballoonlover)",
     "tweet_id": "1857431563698417716",
     "engagement_score": 3.76
-  },
-  {
-    "content": "OH: interop is the word of the day",
-    "tweet_id": "1857022619633000819",
-    "engagement_score": 3.71
   },
   {
     "content": "OH: weed?? Nono I thought you said wheat",
