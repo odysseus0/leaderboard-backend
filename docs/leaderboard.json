@@ -52,7 +52,7 @@
   {
     "content": "OH: three cheap parachutes are better than one expensive one, discuss",
     "tweet_id": "1856230458754744690",
-    "engagement_score": 25.37
+    "engagement_score": 25.38
   },
   {
     "content": "OH: incredible result of multi million dollar grant to @0xPARC is .... frog hats",
@@ -295,6 +295,11 @@
     "engagement_score": 7.09
   },
   {
+    "content": "OH: Apparently, mango juice is good stuff",
+    "tweet_id": "1857355244096667815",
+    "engagement_score": 6.59
+  },
+  {
     "content": "OH: I post things that shouldn't be posted, like the fact that I used to be human.",
     "tweet_id": "1856207380393939146",
     "engagement_score": 6.49
@@ -363,11 +368,6 @@
     "content": "OH: Who is building SOL on Ethereum?",
     "tweet_id": "1859950062828171564",
     "engagement_score": 5.66
-  },
-  {
-    "content": "OH: Apparently, mango juice is good stuff",
-    "tweet_id": "1857355244096667815",
-    "engagement_score": 5.59
   },
   {
     "content": "OH: vitalik was here",
