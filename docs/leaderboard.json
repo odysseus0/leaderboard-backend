@@ -105,11 +105,6 @@
     "engagement_score": 12.76
   },
   {
-    "content": "OH: 1token = 1like",
-    "tweet_id": "1856415515192827973",
-    "engagement_score": 12.6
-  },
-  {
     "content": "OH: never ask:\na man his salary\na woman her age\n@0xBalloonLover why they never critique succinct",
     "tweet_id": "1857265780133425350",
     "engagement_score": 12.26
@@ -127,7 +122,12 @@
   {
     "content": "OH: Bangkok at night? More like edge city amirite?",
     "tweet_id": "1856356758274388328",
-    "engagement_score": 11.62
+    "engagement_score": 11.63
+  },
+  {
+    "content": "OH: 1token = 1like",
+    "tweet_id": "1856415515192827973",
+    "engagement_score": 11.6
   },
   {
     "content": "OH: what even is an AI circuit breaker at the sequence level? Just marketing?",
