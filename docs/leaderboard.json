@@ -27,12 +27,12 @@
   {
     "content": "OH: where's c-node???",
     "tweet_id": "1856599589035401593",
-    "engagement_score": 43.66
+    "engagement_score": 44.66
   },
   {
     "content": "OH: mopeds are the L2s of Bangkok",
     "tweet_id": "1857795629885391199",
-    "engagement_score": 35.35
+    "engagement_score": 35.34
   },
   {
     "content": "OH: (researcher) It's cheaper to launch Us-east1 to Space than open source RTL to GSD for a single chip.",
@@ -47,7 +47,7 @@
   {
     "content": "OH: TEE normalization is the CIAs attempt at infiltrating cryptography",
     "tweet_id": "1856649745009160604",
-    "engagement_score": 25.92
+    "engagement_score": 25.9
   },
   {
     "content": "OH: three cheap parachutes are better than one expensive one, discuss",
@@ -125,6 +125,11 @@
     "engagement_score": 11.63
   },
   {
+    "content": "OH: 1token = 1like",
+    "tweet_id": "1856415515192827973",
+    "engagement_score": 11.6
+  },
+  {
     "content": "OH: what even is an AI circuit breaker at the sequence level? Just marketing?",
     "tweet_id": "1857828855773360459",
     "engagement_score": 11.31
@@ -153,11 +158,6 @@
     "content": "OH: \n\n\"How come @SuccinctLabs copied @RiscZero and still have worse performance?\"\n\n\"I think they just forgot to copy the optimizations\"",
     "tweet_id": "1857329086399680949",
     "engagement_score": 10.61
-  },
-  {
-    "content": "OH: 1token = 1like",
-    "tweet_id": "1856415515192827973",
-    "engagement_score": 10.6
   },
   {
     "content": "OH: \"Frogs are cool\"",
@@ -302,7 +302,7 @@
   {
     "content": "OH: might be a hot take, but wagyu and caviar are overrated",
     "tweet_id": "1857801654344524221",
-    "engagement_score": 6.51
+    "engagement_score": 6.5
   },
   {
     "content": "OH: I post things that shouldn't be posted, like the fact that I used to be human.",
@@ -367,7 +367,7 @@
   {
     "content": "OH: Who is building SOL on Ethereum?",
     "tweet_id": "1859950062828171564",
-    "engagement_score": 5.71
+    "engagement_score": 5.7
   },
   {
     "content": "OH: vitalik was here",
