@@ -27,7 +27,7 @@
   {
     "content": "OH: where's c-node???",
     "tweet_id": "1856599589035401593",
-    "engagement_score": 44.66
+    "engagement_score": 43.66
   },
   {
     "content": "OH: mopeds are the L2s of Bangkok",
@@ -125,11 +125,6 @@
     "engagement_score": 11.63
   },
   {
-    "content": "OH: 1token = 1like",
-    "tweet_id": "1856415515192827973",
-    "engagement_score": 11.6
-  },
-  {
     "content": "OH: what even is an AI circuit breaker at the sequence level? Just marketing?",
     "tweet_id": "1857828855773360459",
     "engagement_score": 11.31
@@ -158,6 +153,11 @@
     "content": "OH: \n\n\"How come @SuccinctLabs copied @RiscZero and still have worse performance?\"\n\n\"I think they just forgot to copy the optimizations\"",
     "tweet_id": "1857329086399680949",
     "engagement_score": 10.61
+  },
+  {
+    "content": "OH: 1token = 1like",
+    "tweet_id": "1856415515192827973",
+    "engagement_score": 10.6
   },
   {
     "content": "OH: \"Frogs are cool\"",
