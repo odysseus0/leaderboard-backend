@@ -7,7 +7,7 @@
   {
     "content": "Hello from Devcon 🔥🚀",
     "tweet_id": "1856668703036711163",
-    "engagement_score": 228.43
+    "engagement_score": 227.43
   },
   {
     "content": "OH: nice opsec btw lmfaoooo",
@@ -37,7 +37,7 @@
   {
     "content": "OH: (researcher) It's cheaper to launch Us-east1 to Space than open source RTL to GSD for a single chip.",
     "tweet_id": "1856683778304876816",
-    "engagement_score": 33.33
+    "engagement_score": 32.33
   },
   {
     "content": "OH: The ticker is echo",
@@ -60,19 +60,14 @@
     "engagement_score": 19.13
   },
   {
-    "content": "OH: okay but the laser shooting through the ethereum logo is worth at least a year of roadmap",
-    "tweet_id": "1856374322228756862",
-    "engagement_score": 16.32
-  },
-  {
     "content": "OH: all blob no gas in 2025",
     "tweet_id": "1856370815702639021",
     "engagement_score": 15.6
   },
   {
-    "content": "OH: Nurturing diversity is critical, biodiversity is the only way organisms in a garden can survive.",
-    "tweet_id": "1856667983482876297",
-    "engagement_score": 14.6
+    "content": "OH: okay but the laser shooting through the ethereum logo is worth at least a year of roadmap",
+    "tweet_id": "1856374322228756862",
+    "engagement_score": 15.32
   },
   {
     "content": "OH: Before I say anything about Starkware, please make sure you don’t have any beepers on you",
@@ -83,6 +78,11 @@
     "content": "OH: make sure you spell \"Unformat\" correctly in Grab tonight\n\"Uniform studio\" sucks dude",
     "tweet_id": "1857117106619191781",
     "engagement_score": 14.47
+  },
+  {
+    "content": "OH: Nurturing diversity is critical, biodiversity is the only way organisms in a garden can survive.",
+    "tweet_id": "1856667983482876297",
+    "engagement_score": 13.6
   },
   {
     "content": "OH: Eigenlayer wants to coordinate the human race but they can’t even coordinate an org of 50 people",
@@ -122,7 +122,7 @@
   {
     "content": "OH: Building on monad is like paying for your sister to attend your high-school reunion",
     "tweet_id": "1857810294199705693",
-    "engagement_score": 11.72
+    "engagement_score": 11.73
   },
   {
     "content": "OH: Bangkok at night? More like edge city amirite?",
@@ -132,7 +132,7 @@
   {
     "content": "OH: what even is an AI circuit breaker at the sequence level? Just marketing?",
     "tweet_id": "1857828855773360459",
-    "engagement_score": 11.32
+    "engagement_score": 11.33
   },
   {
     "content": "OH: why would you think max is bad at coordinating? He planned a roast of Ethereum, roasted bankless, then ran out of content by not telling enough people to prepare jokes.",
@@ -145,18 +145,8 @@
     "engagement_score": 10.92
   },
   {
-    "content": "OH: every time you spoke on that panel i could feel the value of my equity decreasing",
-    "tweet_id": "1856670363955937616",
-    "engagement_score": 10.63
-  },
-  {
     "content": "OH: \n\n\"How come @SuccinctLabs copied @RiscZero and still have worse performance?\"\n\n\"I think they just forgot to copy the optimizations\"",
     "tweet_id": "1857329086399680949",
-    "engagement_score": 10.62
-  },
-  {
-    "content": "OH: net worth of someone who…\n1. arrived for vitaliks panel, left for Phil\n2. arrived for Phil panel + beam chain\n3. arrived only for beam chain\n4. had a comfy seat for all three",
-    "tweet_id": "1856386467842453668",
     "engagement_score": 10.62
   },
   {
@@ -172,11 +162,6 @@
   {
     "content": "OH: @malleshpai drafts all SMG papers during lunch break on a napkin before he goes back to more serious work.",
     "tweet_id": "1857275208500916225",
-    "engagement_score": 10.19
-  },
-  {
-    "content": "OH: Why do I have to eat bananas? Have you ever had a Polish banana.",
-    "tweet_id": "1856371034858955042",
     "engagement_score": 10.19
   },
   {
@@ -203,6 +188,16 @@
     "content": "OH: It's dengue not dengo. 🥴",
     "tweet_id": "1856372032201474264",
     "engagement_score": 9.68
+  },
+  {
+    "content": "OH: every time you spoke on that panel i could feel the value of my equity decreasing",
+    "tweet_id": "1856670363955937616",
+    "engagement_score": 9.63
+  },
+  {
+    "content": "OH: net worth of someone who…\n1. arrived for vitaliks panel, left for Phil\n2. arrived for Phil panel + beam chain\n3. arrived only for beam chain\n4. had a comfy seat for all three",
+    "tweet_id": "1856386467842453668",
+    "engagement_score": 9.62
   },
   {
     "content": "OH: there’s a private key hidden somewhere on level 2. a prime number room has stickers in it, the adhesive will reveal all",
@@ -233,6 +228,11 @@
     "content": "OH: Solana? More like SQLana",
     "tweet_id": "1856303740157923660",
     "engagement_score": 9.42
+  },
+  {
+    "content": "OH: Why do I have to eat bananas? Have you ever had a Polish banana.",
+    "tweet_id": "1856371034858955042",
+    "engagement_score": 9.19
   },
   {
     "content": "OH: long live TEEs, cryptography is dead",
@@ -267,7 +267,7 @@
   {
     "content": "OH at Lumphini Park:\n\n“Are these fish gonna be ok with all these styrofoam??”\n“I’m sure they are used to it”",
     "tweet_id": "1857802013494456330",
-    "engagement_score": 8.12
+    "engagement_score": 8.13
   },
   {
     "content": "OH: Sir. A second Dan Robinson auction mechanism has hit a Paradigm portco",
@@ -315,11 +315,6 @@
     "engagement_score": 6.41
   },
   {
-    "content": "OH: i like mermaids over reverse mermaids",
-    "tweet_id": "1856699381698687426",
-    "engagement_score": 6.4
-  },
-  {
     "content": "OH: eth surges as local critic (@0xBalloonLover) is revealed to be a solana multisig @0xShitTrader, @rajivpoc, and @bqbrady.",
     "tweet_id": "1857215187113136143",
     "engagement_score": 6.36
@@ -345,11 +340,6 @@
     "engagement_score": 6.19
   },
   {
-    "content": "OH: how much money you have is how much you can influence the future. Money represent future freedom.",
-    "tweet_id": "1855689844850139330",
-    "engagement_score": 6.14
-  },
-  {
     "content": "OH: The Ethereum Roast was a clear indicator @MaxResnick1 is not allergic to long term thinking.\n\nWe don’t need funny jokes, edible food or a well planned event, today. \n\nWe have 5 years — like zoom out.",
     "tweet_id": "1857213326423408943",
     "engagement_score": 6.04
@@ -367,7 +357,7 @@
   {
     "content": "OH: Who is building SOL on Ethereum?",
     "tweet_id": "1859950062828171564",
-    "engagement_score": 5.72
+    "engagement_score": 5.73
   },
   {
     "content": "OH: vitalik was here",
@@ -388,6 +378,11 @@
     "content": "OH: Make me great again",
     "tweet_id": "1856947263924298047",
     "engagement_score": 5.44
+  },
+  {
+    "content": "OH: i like mermaids over reverse mermaids",
+    "tweet_id": "1856699381698687426",
+    "engagement_score": 5.4
   },
   {
     "content": "OH: you know kitkat doesn’t have silver foil anymore",
@@ -418,6 +413,11 @@
     "content": "OH: tweet tweet tweet and grow your wealth",
     "tweet_id": "1855690306743685603",
     "engagement_score": 5.21
+  },
+  {
+    "content": "OH: how much money you have is how much you can influence the future. Money represent future freedom.",
+    "tweet_id": "1855689844850139330",
+    "engagement_score": 5.14
   },
   {
     "content": "OH: where is the dispensary in the venue?",
