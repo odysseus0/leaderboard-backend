@@ -27,7 +27,7 @@
   {
     "content": "OH: where's c-node???",
     "tweet_id": "1856599589035401593",
-    "engagement_score": 44.67
+    "engagement_score": 43.67
   },
   {
     "content": "OH: mopeds are the L2s of Bangkok",
@@ -90,11 +90,6 @@
     "engagement_score": 13.53
   },
   {
-    "content": "OH: the beau-tee!",
-    "tweet_id": "1856541893103882663",
-    "engagement_score": 13.41
-  },
-  {
     "content": "OH: You have to imagine wealth as vectors in 3D-space",
     "tweet_id": "1855690771845783560",
     "engagement_score": 12.78
@@ -108,6 +103,11 @@
     "content": "OH: 1token = 1like",
     "tweet_id": "1856415515192827973",
     "engagement_score": 12.6
+  },
+  {
+    "content": "OH: the beau-tee!",
+    "tweet_id": "1856541893103882663",
+    "engagement_score": 12.41
   },
   {
     "content": "OH: never ask:\na man his salary\na woman her age\n@0xBalloonLover why they never critique succinct",
@@ -390,16 +390,6 @@
     "engagement_score": 5.44
   },
   {
-    "content": "OH: you know kitkat doesn’t have silver foil anymore",
-    "tweet_id": "1856600630095208518",
-    "engagement_score": 5.37
-  },
-  {
-    "content": "OH: Hello. I am at Devcon 🙌🏻",
-    "tweet_id": "1856547167118172216",
-    "engagement_score": 5.36
-  },
-  {
     "content": "OH: Yeah, there's gonna be a rug. TBD",
     "tweet_id": "1857801598082125882",
     "engagement_score": 5.35
@@ -473,6 +463,16 @@
     "content": "OH: new crypto kids gonna have to google what Ethereum even is",
     "tweet_id": "1856209141783556287",
     "engagement_score": 4.47
+  },
+  {
+    "content": "OH: you know kitkat doesn’t have silver foil anymore",
+    "tweet_id": "1856600630095208518",
+    "engagement_score": 4.37
+  },
+  {
+    "content": "OH: Hello. I am at Devcon 🙌🏻",
+    "tweet_id": "1856547167118172216",
+    "engagement_score": 4.36
   },
   {
     "content": "OH: I AM HACKED HAHAHHHA",
