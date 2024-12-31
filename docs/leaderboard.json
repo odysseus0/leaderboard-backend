@@ -7,17 +7,17 @@
   {
     "content": "Hello from Devcon 🔥🚀",
     "tweet_id": "1856668703036711163",
-    "engagement_score": 229.08
+    "engagement_score": 228.08
   },
   {
     "content": "OH: nice opsec btw lmfaoooo",
     "tweet_id": "1857216715295261061",
-    "engagement_score": 225.82
+    "engagement_score": 224.82
   },
   {
     "content": "OH: have you hugged a solo staker today?",
     "tweet_id": "1856115200660746546",
-    "engagement_score": 179.64
+    "engagement_score": 178.99
   },
   {
     "content": "OH: neeraj didn't know what teleport was..",
@@ -75,19 +75,14 @@
     "engagement_score": 14.6
   },
   {
-    "content": "OH: Before I say anything about Starkware, please make sure you don’t have any beepers on you",
-    "tweet_id": "1857065435406959043",
-    "engagement_score": 14.59
-  },
-  {
     "content": "OH: make sure you spell \"Unformat\" correctly in Grab tonight\n\"Uniform studio\" sucks dude",
     "tweet_id": "1857117106619191781",
     "engagement_score": 14.47
   },
   {
-    "content": "OH: Eigenlayer wants to coordinate the human race but they can’t even coordinate an org of 50 people",
-    "tweet_id": "1857064135294406945",
-    "engagement_score": 13.53
+    "content": "OH: Before I say anything about Starkware, please make sure you don’t have any beepers on you",
+    "tweet_id": "1857065435406959043",
+    "engagement_score": 13.59
   },
   {
     "content": "OH: the beau-tee!",
@@ -103,6 +98,11 @@
     "content": "OH: Ahhhhhhhh im beamin",
     "tweet_id": "1856379053323739515",
     "engagement_score": 12.76
+  },
+  {
+    "content": "OH: Eigenlayer wants to coordinate the human race but they can’t even coordinate an org of 50 people",
+    "tweet_id": "1857064135294406945",
+    "engagement_score": 12.53
   },
   {
     "content": "OH: never ask:\na man his salary\na woman her age\n@0xBalloonLover why they never critique succinct",
@@ -143,11 +143,6 @@
     "content": "OH: Cypherpunk movement is coming to life...",
     "tweet_id": "1856265346690216368",
     "engagement_score": 10.92
-  },
-  {
-    "content": "OH: every time you spoke on that panel i could feel the value of my equity decreasing",
-    "tweet_id": "1856670363955937616",
-    "engagement_score": 10.63
   },
   {
     "content": "OH: \n\n\"How come @SuccinctLabs copied @RiscZero and still have worse performance?\"\n\n\"I think they just forgot to copy the optimizations\"",
@@ -205,6 +200,11 @@
     "engagement_score": 9.68
   },
   {
+    "content": "OH: every time you spoke on that panel i could feel the value of my equity decreasing",
+    "tweet_id": "1856670363955937616",
+    "engagement_score": 9.63
+  },
+  {
     "content": "OH: there’s a private key hidden somewhere on level 2. a prime number room has stickers in it, the adhesive will reveal all",
     "tweet_id": "1857051996961861936",
     "engagement_score": 9.58
@@ -245,11 +245,6 @@
     "engagement_score": 8.82
   },
   {
-    "content": "OH: That guy was doing ZK before Circom; an actual masochist",
-    "tweet_id": "1856902678212641279",
-    "engagement_score": 8.69
-  },
-  {
     "content": "OH: Zk is overestimated. Isnt it?",
     "tweet_id": "1856363701927915872",
     "engagement_score": 8.48
@@ -278,6 +273,11 @@
     "content": "OH: level 99 security is a TEE secured by Paradigm NDA",
     "tweet_id": "1855797588789776474",
     "engagement_score": 7.74
+  },
+  {
+    "content": "OH: That guy was doing ZK before Circom; an actual masochist",
+    "tweet_id": "1856902678212641279",
+    "engagement_score": 7.69
   },
   {
     "content": "OH: the real Satoshi is the friends we made along the way",
@@ -445,11 +445,6 @@
     "engagement_score": 4.76
   },
   {
-    "content": "OH: interop is the word of the day",
-    "tweet_id": "1857022619633000819",
-    "engagement_score": 4.71
-  },
-  {
     "content": "OH: Joe and Justin must have the same public speaking coach.",
     "tweet_id": "1857010991671697430",
     "engagement_score": 4.64
@@ -498,6 +493,11 @@
     "content": "OH: I'm gonna jailbreak this content filter, watch me",
     "tweet_id": "1857795867534594396",
     "engagement_score": 3.75
+  },
+  {
+    "content": "OH: interop is the word of the day",
+    "tweet_id": "1857022619633000819",
+    "engagement_score": 3.71
   },
   {
     "content": "OH: weed?? Nono I thought you said wheat",
