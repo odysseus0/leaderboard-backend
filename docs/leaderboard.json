@@ -27,7 +27,7 @@
   {
     "content": "OH: where's c-node???",
     "tweet_id": "1856599589035401593",
-    "engagement_score": 44.68
+    "engagement_score": 43.68
   },
   {
     "content": "OH: mopeds are the L2s of Bangkok",
@@ -85,11 +85,6 @@
     "engagement_score": 14.48
   },
   {
-    "content": "OH: the beau-tee!",
-    "tweet_id": "1856541893103882663",
-    "engagement_score": 13.72
-  },
-  {
     "content": "OH: Eigenlayer wants to coordinate the human race but they can’t even coordinate an org of 50 people",
     "tweet_id": "1857064135294406945",
     "engagement_score": 13.53
@@ -100,9 +95,9 @@
     "engagement_score": 12.78
   },
   {
-    "content": "OH: Ahhhhhhhh im beamin",
-    "tweet_id": "1856379053323739515",
-    "engagement_score": 12.76
+    "content": "OH: the beau-tee!",
+    "tweet_id": "1856541893103882663",
+    "engagement_score": 12.72
   },
   {
     "content": "OH: 1token = 1like",
@@ -118,6 +113,11 @@
     "content": "OH: test test if this works im sold on tees",
     "tweet_id": "1856396292181659947",
     "engagement_score": 11.94
+  },
+  {
+    "content": "OH: Ahhhhhhhh im beamin",
+    "tweet_id": "1856379053323739515",
+    "engagement_score": 11.76
   },
   {
     "content": "OH: Building on monad is like paying for your sister to attend your high-school reunion",
@@ -390,16 +390,6 @@
     "engagement_score": 5.44
   },
   {
-    "content": "OH: you know kitkat doesn’t have silver foil anymore",
-    "tweet_id": "1856600630095208518",
-    "engagement_score": 5.37
-  },
-  {
-    "content": "OH: Hello. I am at Devcon 🙌🏻",
-    "tweet_id": "1856547167118172216",
-    "engagement_score": 5.36
-  },
-  {
     "content": "OH: Yeah, there's gonna be a rug. TBD",
     "tweet_id": "1857801598082125882",
     "engagement_score": 5.35
@@ -473,6 +463,16 @@
     "content": "OH: new crypto kids gonna have to google what Ethereum even is",
     "tweet_id": "1856209141783556287",
     "engagement_score": 4.47
+  },
+  {
+    "content": "OH: you know kitkat doesn’t have silver foil anymore",
+    "tweet_id": "1856600630095208518",
+    "engagement_score": 4.37
+  },
+  {
+    "content": "OH: Hello. I am at Devcon 🙌🏻",
+    "tweet_id": "1856547167118172216",
+    "engagement_score": 4.36
   },
   {
     "content": "OH: I AM HACKED HAHAHHHA",
