@@ -77,7 +77,7 @@
   {
     "content": "OH: the beau-tee!",
     "tweet_id": "1856541893103882663",
-    "engagement_score": 13.74
+    "engagement_score": 13.75
   },
   {
     "content": "OH: Before I say anything about Starkware, please make sure you don’t have any beepers on you",
@@ -93,6 +93,11 @@
     "content": "OH: You have to imagine wealth as vectors in 3D-space",
     "tweet_id": "1855690771845783560",
     "engagement_score": 12.78
+  },
+  {
+    "content": "OH: 1token = 1like",
+    "tweet_id": "1856415515192827973",
+    "engagement_score": 12.6
   },
   {
     "content": "OH: Eigenlayer wants to coordinate the human race but they can’t even coordinate an org of 50 people",
@@ -113,11 +118,6 @@
     "content": "OH: Bangkok at night? More like edge city amirite?",
     "tweet_id": "1856356758274388328",
     "engagement_score": 11.73
-  },
-  {
-    "content": "OH: 1token = 1like",
-    "tweet_id": "1856415515192827973",
-    "engagement_score": 11.6
   },
   {
     "content": "OH: test test if this works im sold on tees",
@@ -277,7 +277,7 @@
   {
     "content": "OH: Best time this year is to meet up so many fantastic women here",
     "tweet_id": "1857453784823103983",
-    "engagement_score": 7.31
+    "engagement_score": 7.32
   },
   {
     "content": "OH: Canada is basically America’s L2. It’s not a sidechain, it has no independent security…",
