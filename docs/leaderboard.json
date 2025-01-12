@@ -47,7 +47,7 @@
   {
     "content": "OH: TEE normalization is the CIAs attempt at infiltrating cryptography",
     "tweet_id": "1856649745009160604",
-    "engagement_score": 25.96
+    "engagement_score": 25.97
   },
   {
     "content": "OH: three cheap parachutes are better than one expensive one, discuss",
@@ -130,6 +130,11 @@
     "engagement_score": 10.92
   },
   {
+    "content": "OH: Building on monad is like paying for your sister to attend your high-school reunion",
+    "tweet_id": "1857810294199705693",
+    "engagement_score": 10.78
+  },
+  {
     "content": "OH: every time you spoke on that panel i could feel the value of my equity decreasing",
     "tweet_id": "1856670363955937616",
     "engagement_score": 10.64
@@ -138,6 +143,11 @@
     "content": "OH: \n\n\"How come @SuccinctLabs copied @RiscZero and still have worse performance?\"\n\n\"I think they just forgot to copy the optimizations\"",
     "tweet_id": "1857329086399680949",
     "engagement_score": 10.62
+  },
+  {
+    "content": "OH: what even is an AI circuit breaker at the sequence level? Just marketing?",
+    "tweet_id": "1857828855773360459",
+    "engagement_score": 10.36
   },
   {
     "content": "OH: \"Frogs are cool\"",
@@ -160,11 +170,6 @@
     "engagement_score": 9.81
   },
   {
-    "content": "OH: Building on monad is like paying for your sister to attend your high-school reunion",
-    "tweet_id": "1857810294199705693",
-    "engagement_score": 9.78
-  },
-  {
     "content": "OH: net worth of someone who…\n1. arrived for vitaliks panel, left for Phil\n2. arrived for Phil panel + beam chain\n3. arrived only for beam chain\n4. had a comfy seat for all three",
     "tweet_id": "1856386467842453668",
     "engagement_score": 9.62
@@ -178,11 +183,6 @@
     "content": "OH: Solana? More like SQLana",
     "tweet_id": "1856303740157923660",
     "engagement_score": 9.42
-  },
-  {
-    "content": "OH: what even is an AI circuit breaker at the sequence level? Just marketing?",
-    "tweet_id": "1857828855773360459",
-    "engagement_score": 9.36
   },
   {
     "content": "OH: Its about the dream chain, not the beam chain",
@@ -277,12 +277,17 @@
   {
     "content": "OH: Best time this year is to meet up so many fantastic women here",
     "tweet_id": "1857453784823103983",
-    "engagement_score": 7.32
+    "engagement_score": 7.33
   },
   {
     "content": "OH: Canada is basically America’s L2. It’s not a sidechain, it has no independent security…",
     "tweet_id": "1857072716450304115",
     "engagement_score": 7.19
+  },
+  {
+    "content": "OH at Lumphini Park:\n\n“Are these fish gonna be ok with all these styrofoam??”\n“I’m sure they are used to it”",
+    "tweet_id": "1857802013494456330",
+    "engagement_score": 7.15
   },
   {
     "content": "OH: 5 years to get to 4 second blocktimes\n5 years to get to 4 second blocktimes 🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣\n5 years to get to 4 second blocktimes 🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣",
@@ -320,11 +325,6 @@
     "engagement_score": 6.24
   },
   {
-    "content": "OH at Lumphini Park:\n\n“Are these fish gonna be ok with all these styrofoam??”\n“I’m sure they are used to it”",
-    "tweet_id": "1857802013494456330",
-    "engagement_score": 6.15
-  },
-  {
     "content": "OH: how much money you have is how much you can influence the future. Money represent future freedom.",
     "tweet_id": "1855689844850139330",
     "engagement_score": 6.14
@@ -338,6 +338,11 @@
     "content": "OH: vitalik was here",
     "tweet_id": "1856118420892463122",
     "engagement_score": 5.59
+  },
+  {
+    "content": "OH: might be a hot take, but wagyu and caviar are overrated",
+    "tweet_id": "1857801654344524221",
+    "engagement_score": 5.54
   },
   {
     "content": "OH: stop chasing the dragon… stop chasing napkin protocol development",
@@ -445,11 +450,6 @@
     "engagement_score": 4.57
   },
   {
-    "content": "OH: might be a hot take, but wagyu and caviar are overrated",
-    "tweet_id": "1857801654344524221",
-    "engagement_score": 4.54
-  },
-  {
     "content": "OH: does this work",
     "tweet_id": "1857395837686427749",
     "engagement_score": 4.5
@@ -458,6 +458,11 @@
     "content": "OH: new crypto kids gonna have to google what Ethereum even is",
     "tweet_id": "1856209141783556287",
     "engagement_score": 4.47
+  },
+  {
+    "content": "OH: Yeah, there's gonna be a rug. TBD",
+    "tweet_id": "1857801598082125882",
+    "engagement_score": 4.36
   },
   {
     "content": "OH: The Ethereum ecosystem would be much healthier if we roasted Consensys leadership every quarter",
@@ -498,11 +503,6 @@
     "content": "OH: ayo minnasan!\nvib = wow",
     "tweet_id": "1857022159144604116",
     "engagement_score": 3.53
-  },
-  {
-    "content": "OH: Yeah, there's gonna be a rug. TBD",
-    "tweet_id": "1857801598082125882",
-    "engagement_score": 3.36
   },
   {
     "content": "OH: I AM HACKED HAHAHHHA",
