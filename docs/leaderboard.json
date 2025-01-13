@@ -130,11 +130,6 @@
     "engagement_score": 10.92
   },
   {
-    "content": "OH: Building on monad is like paying for your sister to attend your high-school reunion",
-    "tweet_id": "1857810294199705693",
-    "engagement_score": 10.83
-  },
-  {
     "content": "OH: every time you spoke on that panel i could feel the value of my equity decreasing",
     "tweet_id": "1856670363955937616",
     "engagement_score": 10.64
@@ -163,6 +158,11 @@
     "content": "OH: why would you think max is bad at coordinating? He planned a roast of Ethereum, roasted bankless, then ran out of content by not telling enough people to prepare jokes.",
     "tweet_id": "1857076164768022919",
     "engagement_score": 10.1
+  },
+  {
+    "content": "OH: Building on monad is like paying for your sister to attend your high-school reunion",
+    "tweet_id": "1857810294199705693",
+    "engagement_score": 9.83
   },
   {
     "content": "OH: the idea of money is\nflawed; money is \na constraint\nonce we free ourselves \nfrom that constraint, we is\nenlightened",
@@ -235,11 +235,6 @@
     "engagement_score": 8.59
   },
   {
-    "content": "OH: It's only downhill",
-    "tweet_id": "1857766808708661319",
-    "engagement_score": 8.51
-  },
-  {
     "content": "OH: paradigm DID NOT build SP1, Risc0 did",
     "tweet_id": "1857075906092613842",
     "engagement_score": 8.51
@@ -268,6 +263,11 @@
     "content": "OH: the real Satoshi is the friends we made along the way",
     "tweet_id": "1855985928810234115",
     "engagement_score": 7.66
+  },
+  {
+    "content": "OH: It's only downhill",
+    "tweet_id": "1857766808708661319",
+    "engagement_score": 7.51
   },
   {
     "content": "OH: itsa mee the tee! (super mario voice)",
@@ -338,11 +338,6 @@
     "content": "OH: vitalik was here",
     "tweet_id": "1856118420892463122",
     "engagement_score": 5.59
-  },
-  {
-    "content": "OH: might be a hot take, but wagyu and caviar are overrated",
-    "tweet_id": "1857801654344524221",
-    "engagement_score": 5.57
   },
   {
     "content": "OH: stop chasing the dragon… stop chasing napkin protocol development",
@@ -448,6 +443,11 @@
     "content": "OH: megaETH are the Trump kids (and the founders can’t even vote).\nSolana are the republicans.\nFlashbots and Ethereum are the center-left democrats.",
     "tweet_id": "1857800885058806217",
     "engagement_score": 4.58
+  },
+  {
+    "content": "OH: might be a hot take, but wagyu and caviar are overrated",
+    "tweet_id": "1857801654344524221",
+    "engagement_score": 4.57
   },
   {
     "content": "OH: does this work",
