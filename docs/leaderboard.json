@@ -145,11 +145,6 @@
     "engagement_score": 10.62
   },
   {
-    "content": "OH: what even is an AI circuit breaker at the sequence level? Just marketing?",
-    "tweet_id": "1857828855773360459",
-    "engagement_score": 10.48
-  },
-  {
     "content": "OH: \"Frogs are cool\"",
     "tweet_id": "1856248904938815823",
     "engagement_score": 10.28
@@ -178,6 +173,11 @@
     "content": "OH: If life gives you napkins become an Ethereum researcher",
     "tweet_id": "1857432973747933405",
     "engagement_score": 9.5
+  },
+  {
+    "content": "OH: what even is an AI circuit breaker at the sequence level? Just marketing?",
+    "tweet_id": "1857828855773360459",
+    "engagement_score": 9.48
   },
   {
     "content": "OH: Solana? More like SQLana",
