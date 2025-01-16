@@ -130,6 +130,11 @@
     "engagement_score": 10.92
   },
   {
+    "content": "OH: Building on monad is like paying for your sister to attend your high-school reunion",
+    "tweet_id": "1857810294199705693",
+    "engagement_score": 10.91
+  },
+  {
     "content": "OH: every time you spoke on that panel i could feel the value of my equity decreasing",
     "tweet_id": "1856670363955937616",
     "engagement_score": 10.64
@@ -155,11 +160,6 @@
     "engagement_score": 10.1
   },
   {
-    "content": "OH: Building on monad is like paying for your sister to attend your high-school reunion",
-    "tweet_id": "1857810294199705693",
-    "engagement_score": 9.9
-  },
-  {
     "content": "OH: the idea of money is\nflawed; money is \na constraint\nonce we free ourselves \nfrom that constraint, we is\nenlightened",
     "tweet_id": "1855691554171555962",
     "engagement_score": 9.81
@@ -177,7 +177,7 @@
   {
     "content": "OH: what even is an AI circuit breaker at the sequence level? Just marketing?",
     "tweet_id": "1857828855773360459",
-    "engagement_score": 9.48
+    "engagement_score": 9.49
   },
   {
     "content": "OH: Solana? More like SQLana",
@@ -235,18 +235,23 @@
     "engagement_score": 8.59
   },
   {
+    "content": "OH: It's only downhill",
+    "tweet_id": "1857766808708661319",
+    "engagement_score": 8.53
+  },
+  {
     "content": "OH: paradigm DID NOT build SP1, Risc0 did",
     "tweet_id": "1857075906092613842",
     "engagement_score": 8.51
   },
   {
-    "content": "OH: unsurprising that max can't take the heat #FlashbotsWasRight",
-    "tweet_id": "1857076743560937572",
-    "engagement_score": 8.49
-  },
-  {
     "content": "OH: Zk is overestimated. Isnt it?",
     "tweet_id": "1856363701927915872",
+    "engagement_score": 8.5
+  },
+  {
+    "content": "OH: unsurprising that max can't take the heat #FlashbotsWasRight",
+    "tweet_id": "1857076743560937572",
     "engagement_score": 8.49
   },
   {
@@ -263,11 +268,6 @@
     "content": "OH: the real Satoshi is the friends we made along the way",
     "tweet_id": "1855985928810234115",
     "engagement_score": 7.66
-  },
-  {
-    "content": "OH: It's only downhill",
-    "tweet_id": "1857766808708661319",
-    "engagement_score": 7.53
   },
   {
     "content": "OH: itsa mee the tee! (super mario voice)",
@@ -297,7 +297,7 @@
   {
     "content": "OH: Who is building SOL on Ethereum?",
     "tweet_id": "1859950062828171564",
-    "engagement_score": 6.88
+    "engagement_score": 6.89
   },
   {
     "content": "OH: I post things that shouldn't be posted, like the fact that I used to be human.",
@@ -333,6 +333,11 @@
     "content": "OH: The Ethereum Roast was a clear indicator @MaxResnick1 is not allergic to long term thinking.\n\nWe don’t need funny jokes, edible food or a well planned event, today. \n\nWe have 5 years — like zoom out.",
     "tweet_id": "1857213326423408943",
     "engagement_score": 6.04
+  },
+  {
+    "content": "OH: might be a hot take, but wagyu and caviar are overrated",
+    "tweet_id": "1857801654344524221",
+    "engagement_score": 5.64
   },
   {
     "content": "OH: Apparently, mango juice is good stuff",
@@ -438,11 +443,6 @@
     "content": "OH: interop is the word of the day",
     "tweet_id": "1857022619633000819",
     "engagement_score": 4.71
-  },
-  {
-    "content": "OH: might be a hot take, but wagyu and caviar are overrated",
-    "tweet_id": "1857801654344524221",
-    "engagement_score": 4.64
   },
   {
     "content": "OH: megaETH are the Trump kids (and the founders can’t even vote).\nSolana are the republicans.\nFlashbots and Ethereum are the center-left democrats.",
