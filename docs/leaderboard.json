@@ -52,7 +52,7 @@
   {
     "content": "OH: three cheap parachutes are better than one expensive one, discuss",
     "tweet_id": "1856230458754744690",
-    "engagement_score": 25.43
+    "engagement_score": 25.42
   },
   {
     "content": "OH: incredible result of multi million dollar grant to @0xPARC is .... frog hats",
@@ -77,7 +77,7 @@
   {
     "content": "OH: the beau-tee!",
     "tweet_id": "1856541893103882663",
-    "engagement_score": 13.81
+    "engagement_score": 13.8
   },
   {
     "content": "OH: Before I say anything about Starkware, please make sure you don’t have any beepers on you",
@@ -125,6 +125,11 @@
     "engagement_score": 10.94
   },
   {
+    "content": "OH: Building on monad is like paying for your sister to attend your high-school reunion",
+    "tweet_id": "1857810294199705693",
+    "engagement_score": 10.92
+  },
+  {
     "content": "OH: Cypherpunk movement is coming to life...",
     "tweet_id": "1856265346690216368",
     "engagement_score": 10.92
@@ -153,11 +158,6 @@
     "content": "OH: why would you think max is bad at coordinating? He planned a roast of Ethereum, roasted bankless, then ran out of content by not telling enough people to prepare jokes.",
     "tweet_id": "1857076164768022919",
     "engagement_score": 10.1
-  },
-  {
-    "content": "OH: Building on monad is like paying for your sister to attend your high-school reunion",
-    "tweet_id": "1857810294199705693",
-    "engagement_score": 9.92
   },
   {
     "content": "OH: the idea of money is\nflawed; money is \na constraint\nonce we free ourselves \nfrom that constraint, we is\nenlightened",
@@ -230,19 +230,9 @@
     "engagement_score": 8.59
   },
   {
-    "content": "OH: It's only downhill",
-    "tweet_id": "1857766808708661319",
-    "engagement_score": 8.53
-  },
-  {
     "content": "OH: paradigm DID NOT build SP1, Risc0 did",
     "tweet_id": "1857075906092613842",
     "engagement_score": 8.51
-  },
-  {
-    "content": "OH: what even is an AI circuit breaker at the sequence level? Just marketing?",
-    "tweet_id": "1857828855773360459",
-    "engagement_score": 8.5
   },
   {
     "content": "OH: Zk is overestimated. Isnt it?",
@@ -310,11 +300,6 @@
     "engagement_score": 6.37
   },
   {
-    "content": "OH at Lumphini Park:\n\n“Are these fish gonna be ok with all these styrofoam??”\n“I’m sure they are used to it”",
-    "tweet_id": "1857802013494456330",
-    "engagement_score": 6.29
-  },
-  {
     "content": "OH: I think that last panel could've used a bit more subtraction, if you know what I mean...",
     "tweet_id": "1857374444970184722",
     "engagement_score": 6.29
@@ -333,6 +318,21 @@
     "content": "OH: The Ethereum Roast was a clear indicator @MaxResnick1 is not allergic to long term thinking.\n\nWe don’t need funny jokes, edible food or a well planned event, today. \n\nWe have 5 years — like zoom out.",
     "tweet_id": "1857213326423408943",
     "engagement_score": 6.04
+  },
+  {
+    "content": "OH: what even is an AI circuit breaker at the sequence level? Just marketing?",
+    "tweet_id": "1857828855773360459",
+    "engagement_score": 6.0
+  },
+  {
+    "content": "OH: It's only downhill",
+    "tweet_id": "1857766808708661319",
+    "engagement_score": 6.0
+  },
+  {
+    "content": "OH: might be a hot take, but wagyu and caviar are overrated",
+    "tweet_id": "1857801654344524221",
+    "engagement_score": 5.64
   },
   {
     "content": "OH: Apparently, mango juice is good stuff",
@@ -440,16 +440,6 @@
     "engagement_score": 4.71
   },
   {
-    "content": "OH: might be a hot take, but wagyu and caviar are overrated",
-    "tweet_id": "1857801654344524221",
-    "engagement_score": 4.64
-  },
-  {
-    "content": "OH: megaETH are the Trump kids (and the founders can’t even vote).\nSolana are the republicans.\nFlashbots and Ethereum are the center-left democrats.",
-    "tweet_id": "1857800885058806217",
-    "engagement_score": 4.6
-  },
-  {
     "content": "OH: does this work",
     "tweet_id": "1857395837686427749",
     "engagement_score": 4.51
@@ -460,9 +450,19 @@
     "engagement_score": 4.47
   },
   {
+    "content": "OH: Yeah, there's gonna be a rug. TBD",
+    "tweet_id": "1857801598082125882",
+    "engagement_score": 4.4
+  },
+  {
     "content": "OH: The Ethereum ecosystem would be much healthier if we roasted Consensys leadership every quarter",
     "tweet_id": "1857072222113829112",
     "engagement_score": 4.03
+  },
+  {
+    "content": "OH at Lumphini Park:\n\n“Are these fish gonna be ok with all these styrofoam??”\n“I’m sure they are used to it”",
+    "tweet_id": "1857802013494456330",
+    "engagement_score": 4.0
   },
   {
     "content": "OH: the @0xShitTrader guide to being a tough guy: make a manifesto exposing the \"ethereum deepstate,\" show everybody it at Zuzalu, and then launder it through a sesame street anon (hi @0xballoonlover)",
@@ -500,11 +500,6 @@
     "engagement_score": 3.53
   },
   {
-    "content": "OH: Yeah, there's gonna be a rug. TBD",
-    "tweet_id": "1857801598082125882",
-    "engagement_score": 3.4
-  },
-  {
     "content": "OH: I AM HACKED HAHAHHHA",
     "tweet_id": "1857417387328372916",
     "engagement_score": 3.24
@@ -525,9 +520,9 @@
     "engagement_score": 3.04
   },
   {
-    "content": "OH: I'm gonna jailbreak this content filter, watch me",
-    "tweet_id": "1857795867534594396",
-    "engagement_score": 2.79
+    "content": "OH: megaETH are the Trump kids (and the founders can’t even vote).\nSolana are the republicans.\nFlashbots and Ethereum are the center-left democrats.",
+    "tweet_id": "1857800885058806217",
+    "engagement_score": 3.0
   },
   {
     "content": "OH: I heard that @n_yushkevich is at DevCon with the @quicknode team?",
@@ -545,18 +540,23 @@
     "engagement_score": 2.34
   },
   {
-    "content": "OH: 👍",
-    "tweet_id": "1857417623727694151",
-    "engagement_score": 2.24
+    "content": "OH: the FatBoy thesis is Ethereum 3.0",
+    "tweet_id": "1857795277106594265",
+    "engagement_score": 1.77
+  },
+  {
+    "content": "OH: I'm gonna jailbreak this content filter, watch me",
+    "tweet_id": "1857795867534594396",
+    "engagement_score": 1.0
   },
   {
     "content": "OH: Are grass eating cows happier than corn eating cows?",
     "tweet_id": "1857418116625481842",
-    "engagement_score": 2.12
+    "engagement_score": 0.0
   },
   {
-    "content": "OH: the FatBoy thesis is Ethereum 3.0",
-    "tweet_id": "1857795277106594265",
-    "engagement_score": 1.77
+    "content": "OH: 👍",
+    "tweet_id": "1857417623727694151",
+    "engagement_score": 0.0
   }
 ]
