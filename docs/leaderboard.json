@@ -52,7 +52,7 @@
   {
     "content": "OH: three cheap parachutes are better than one expensive one, discuss",
     "tweet_id": "1856230458754744690",
-    "engagement_score": 25.43
+    "engagement_score": 25.44
   },
   {
     "content": "OH: incredible result of multi million dollar grant to @0xPARC is .... frog hats",
@@ -77,7 +77,12 @@
   {
     "content": "OH: the beau-tee!",
     "tweet_id": "1856541893103882663",
-    "engagement_score": 13.81
+    "engagement_score": 13.83
+  },
+  {
+    "content": "OH: Before I say anything about Starkware, please make sure you don’t have any beepers on you",
+    "tweet_id": "1857065435406959043",
+    "engagement_score": 13.6
   },
   {
     "content": "OH: make sure you spell \"Unformat\" correctly in Grab tonight\n\"Uniform studio\" sucks dude",
@@ -93,11 +98,6 @@
     "content": "OH: 1token = 1like",
     "tweet_id": "1856415515192827973",
     "engagement_score": 12.61
-  },
-  {
-    "content": "OH: Before I say anything about Starkware, please make sure you don’t have any beepers on you",
-    "tweet_id": "1857065435406959043",
-    "engagement_score": 12.6
   },
   {
     "content": "OH: Eigenlayer wants to coordinate the human race but they can’t even coordinate an org of 50 people",
@@ -120,14 +120,14 @@
     "engagement_score": 11.73
   },
   {
-    "content": "OH: test test if this works im sold on tees",
-    "tweet_id": "1856396292181659947",
+    "content": "OH: Building on monad is like paying for your sister to attend your high-school reunion",
+    "tweet_id": "1857810294199705693",
     "engagement_score": 10.94
   },
   {
-    "content": "OH: Building on monad is like paying for your sister to attend your high-school reunion",
-    "tweet_id": "1857810294199705693",
-    "engagement_score": 10.93
+    "content": "OH: test test if this works im sold on tees",
+    "tweet_id": "1856396292181659947",
+    "engagement_score": 10.94
   },
   {
     "content": "OH: Cypherpunk movement is coming to life...",
@@ -172,7 +172,7 @@
   {
     "content": "OH: what even is an AI circuit breaker at the sequence level? Just marketing?",
     "tweet_id": "1857828855773360459",
-    "engagement_score": 9.51
+    "engagement_score": 9.52
   },
   {
     "content": "OH: If life gives you napkins become an Ethereum researcher",
@@ -400,6 +400,11 @@
     "engagement_score": 5.21
   },
   {
+    "content": "OH: If I had to bet on people with more knowledge or people with better tools, I would always bet on more knowledge.\nBarry Whitehat",
+    "tweet_id": "1857043499335528943",
+    "engagement_score": 5.19
+  },
+  {
     "content": "OH: where is the dispensary in the venue?",
     "tweet_id": "1856293716882792584",
     "engagement_score": 5.06
@@ -460,11 +465,6 @@
     "engagement_score": 4.4
   },
   {
-    "content": "OH: If I had to bet on people with more knowledge or people with better tools, I would always bet on more knowledge.\nBarry Whitehat",
-    "tweet_id": "1857043499335528943",
-    "engagement_score": 4.19
-  },
-  {
     "content": "OH: The Ethereum ecosystem would be much healthier if we roasted Consensys leadership every quarter",
     "tweet_id": "1857072222113829112",
     "engagement_score": 4.03
@@ -493,6 +493,11 @@
     "content": "OH: so tired even my eye bags launched a layer 2",
     "tweet_id": "1855829936365511069",
     "engagement_score": 3.57
+  },
+  {
+    "content": "OH: mouse voice penenba",
+    "tweet_id": "1856982742761668894",
+    "engagement_score": 3.56
   },
   {
     "content": "OH: ayo minnasan!\nvib = wow",
@@ -528,11 +533,6 @@
     "content": "OH: I heard that @n_yushkevich is at DevCon with the @quicknode team?",
     "tweet_id": "1856281881093853387",
     "engagement_score": 2.61
-  },
-  {
-    "content": "OH: mouse voice penenba",
-    "tweet_id": "1856982742761668894",
-    "engagement_score": 2.56
   },
   {
     "content": "OH: Just trust the curves, man",
