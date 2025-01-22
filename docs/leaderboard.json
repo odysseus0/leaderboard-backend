@@ -12,7 +12,7 @@
   {
     "content": "OH: nice opsec btw lmfaoooo",
     "tweet_id": "1857216715295261061",
-    "engagement_score": 230.17
+    "engagement_score": 229.17
   },
   {
     "content": "OH: have you hugged a solo staker today?",
@@ -52,7 +52,7 @@
   {
     "content": "OH: three cheap parachutes are better than one expensive one, discuss",
     "tweet_id": "1856230458754744690",
-    "engagement_score": 25.43
+    "engagement_score": 25.44
   },
   {
     "content": "OH: incredible result of multi million dollar grant to @0xPARC is .... frog hats",
@@ -77,17 +77,12 @@
   {
     "content": "OH: the beau-tee!",
     "tweet_id": "1856541893103882663",
-    "engagement_score": 13.81
+    "engagement_score": 13.83
   },
   {
     "content": "OH: Before I say anything about Starkware, please make sure you don’t have any beepers on you",
     "tweet_id": "1857065435406959043",
     "engagement_score": 13.6
-  },
-  {
-    "content": "OH: Eigenlayer wants to coordinate the human race but they can’t even coordinate an org of 50 people",
-    "tweet_id": "1857064135294406945",
-    "engagement_score": 13.53
   },
   {
     "content": "OH: make sure you spell \"Unformat\" correctly in Grab tonight\n\"Uniform studio\" sucks dude",
@@ -98,6 +93,11 @@
     "content": "OH: You have to imagine wealth as vectors in 3D-space",
     "tweet_id": "1855690771845783560",
     "engagement_score": 12.78
+  },
+  {
+    "content": "OH: Eigenlayer wants to coordinate the human race but they can’t even coordinate an org of 50 people",
+    "tweet_id": "1857064135294406945",
+    "engagement_score": 12.53
   },
   {
     "content": "OH: never ask:\na man his salary\na woman her age\n@0xBalloonLover why they never critique succinct",
@@ -120,14 +120,14 @@
     "engagement_score": 11.61
   },
   {
-    "content": "OH: test test if this works im sold on tees",
-    "tweet_id": "1856396292181659947",
+    "content": "OH: Building on monad is like paying for your sister to attend your high-school reunion",
+    "tweet_id": "1857810294199705693",
     "engagement_score": 10.94
   },
   {
-    "content": "OH: Building on monad is like paying for your sister to attend your high-school reunion",
-    "tweet_id": "1857810294199705693",
-    "engagement_score": 10.93
+    "content": "OH: test test if this works im sold on tees",
+    "tweet_id": "1856396292181659947",
+    "engagement_score": 10.94
   },
   {
     "content": "OH: Cypherpunk movement is coming to life...",
@@ -165,11 +165,6 @@
     "engagement_score": 9.81
   },
   {
-    "content": "OH: That guy was doing ZK before Circom; an actual masochist",
-    "tweet_id": "1856902678212641279",
-    "engagement_score": 9.69
-  },
-  {
     "content": "OH: net worth of someone who…\n1. arrived for vitaliks panel, left for Phil\n2. arrived for Phil panel + beam chain\n3. arrived only for beam chain\n4. had a comfy seat for all three",
     "tweet_id": "1856386467842453668",
     "engagement_score": 9.62
@@ -177,7 +172,7 @@
   {
     "content": "OH: what even is an AI circuit breaker at the sequence level? Just marketing?",
     "tweet_id": "1857828855773360459",
-    "engagement_score": 9.51
+    "engagement_score": 9.52
   },
   {
     "content": "OH: If life gives you napkins become an Ethereum researcher",
@@ -223,6 +218,11 @@
     "content": "OH: The reason market is up is that every degen at Devcon left their hw wallet back home",
     "tweet_id": "1856350759509733604",
     "engagement_score": 8.73
+  },
+  {
+    "content": "OH: That guy was doing ZK before Circom; an actual masochist",
+    "tweet_id": "1856902678212641279",
+    "engagement_score": 8.69
   },
   {
     "content": "OH: It's dengue not dengo. 🥴",
@@ -335,11 +335,6 @@
     "engagement_score": 6.04
   },
   {
-    "content": "OH: interop is the word of the day",
-    "tweet_id": "1857022619633000819",
-    "engagement_score": 5.71
-  },
-  {
     "content": "OH: might be a hot take, but wagyu and caviar are overrated",
     "tweet_id": "1857801654344524221",
     "engagement_score": 5.65
@@ -443,6 +438,11 @@
     "content": "OH: CT thinks they are snarky but couldnt even handle German humor, one of the weakest kind",
     "tweet_id": "1857125581147541902",
     "engagement_score": 4.75
+  },
+  {
+    "content": "OH: interop is the word of the day",
+    "tweet_id": "1857022619633000819",
+    "engagement_score": 4.71
   },
   {
     "content": "OH: megaETH are the Trump kids (and the founders can’t even vote).\nSolana are the republicans.\nFlashbots and Ethereum are the center-left democrats.",
