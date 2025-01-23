@@ -95,6 +95,11 @@
     "engagement_score": 12.78
   },
   {
+    "content": "OH: 1token = 1like",
+    "tweet_id": "1856415515192827973",
+    "engagement_score": 12.61
+  },
+  {
     "content": "OH: Eigenlayer wants to coordinate the human race but they can’t even coordinate an org of 50 people",
     "tweet_id": "1857064135294406945",
     "engagement_score": 12.53
@@ -105,19 +110,9 @@
     "engagement_score": 12.27
   },
   {
-    "content": "OH: Ahhhhhhhh im beamin",
-    "tweet_id": "1856379053323739515",
-    "engagement_score": 11.76
-  },
-  {
     "content": "OH: Bangkok at night? More like edge city amirite?",
     "tweet_id": "1856356758274388328",
     "engagement_score": 11.73
-  },
-  {
-    "content": "OH: 1token = 1like",
-    "tweet_id": "1856415515192827973",
-    "engagement_score": 11.61
   },
   {
     "content": "OH: Building on monad is like paying for your sister to attend your high-school reunion",
@@ -133,6 +128,11 @@
     "content": "OH: Cypherpunk movement is coming to life...",
     "tweet_id": "1856265346690216368",
     "engagement_score": 10.92
+  },
+  {
+    "content": "OH: Ahhhhhhhh im beamin",
+    "tweet_id": "1856379053323739515",
+    "engagement_score": 10.76
   },
   {
     "content": "OH: every time you spoke on that panel i could feel the value of my equity decreasing",
@@ -172,7 +172,7 @@
   {
     "content": "OH: what even is an AI circuit breaker at the sequence level? Just marketing?",
     "tweet_id": "1857828855773360459",
-    "engagement_score": 9.54
+    "engagement_score": 9.53
   },
   {
     "content": "OH: If life gives you napkins become an Ethereum researcher",
@@ -272,7 +272,7 @@
   {
     "content": "OH: Best time this year is to meet up so many fantastic women here",
     "tweet_id": "1857453784823103983",
-    "engagement_score": 7.5
+    "engagement_score": 7.49
   },
   {
     "content": "OH: itsa mee the tee! (super mario voice)",
@@ -337,12 +337,7 @@
   {
     "content": "OH: might be a hot take, but wagyu and caviar are overrated",
     "tweet_id": "1857801654344524221",
-    "engagement_score": 5.66
-  },
-  {
-    "content": "OH: Apparently, mango juice is good stuff",
-    "tweet_id": "1857355244096667815",
-    "engagement_score": 5.61
+    "engagement_score": 5.65
   },
   {
     "content": "OH: vitalik was here",
@@ -443,6 +438,11 @@
     "content": "OH: interop is the word of the day",
     "tweet_id": "1857022619633000819",
     "engagement_score": 4.71
+  },
+  {
+    "content": "OH: Apparently, mango juice is good stuff",
+    "tweet_id": "1857355244096667815",
+    "engagement_score": 4.61
   },
   {
     "content": "OH: megaETH are the Trump kids (and the founders can’t even vote).\nSolana are the republicans.\nFlashbots and Ethereum are the center-left democrats.",
