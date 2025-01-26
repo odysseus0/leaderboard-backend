@@ -1,25 +1,5 @@
 [
   {
-    "content": "OH: (security researcher) There should be a space-based layer-1 network deployed on nano satellites, designed to serve as the root of trust and final authority",
-    "tweet_id": "1857795908601077974",
-    "engagement_score": 702.82
-  },
-  {
-    "content": "Hello from Devcon 🔥🚀",
-    "tweet_id": "1856668703036711163",
-    "engagement_score": 233.93
-  },
-  {
-    "content": "OH: nice opsec btw lmfaoooo",
-    "tweet_id": "1857216715295261061",
-    "engagement_score": 230.67
-  },
-  {
-    "content": "OH: have you hugged a solo staker today?",
-    "tweet_id": "1856115200660746546",
-    "engagement_score": 185.64
-  },
-  {
     "content": "OH: neeraj didn't know what teleport was..",
     "tweet_id": "1856620974034051277",
     "engagement_score": 45.83
@@ -37,12 +17,17 @@
   {
     "content": "OH: (researcher) It's cheaper to launch Us-east1 to Space than open source RTL to GSD for a single chip.",
     "tweet_id": "1856683778304876816",
-    "engagement_score": 32.36
+    "engagement_score": 32.46
+  },
+  {
+    "content": "OH: (security researcher) There should be a space-based layer-1 network deployed on nano satellites, designed to serve as the root of trust and final authority",
+    "tweet_id": "1857795908601077974",
+    "engagement_score": 30.42
   },
   {
     "content": "OH: The ticker is echo",
     "tweet_id": "1857080431960547526",
-    "engagement_score": 27.57
+    "engagement_score": 27.62
   },
   {
     "content": "OH: TEE normalization is the CIAs attempt at infiltrating cryptography",
@@ -65,6 +50,11 @@
     "engagement_score": 15.33
   },
   {
+    "content": "OH: have you hugged a solo staker today?",
+    "tweet_id": "1856115200660746546",
+    "engagement_score": 14.99
+  },
+  {
     "content": "OH: all blob no gas in 2025",
     "tweet_id": "1856370815702639021",
     "engagement_score": 14.61
@@ -78,11 +68,6 @@
     "content": "OH: the beau-tee!",
     "tweet_id": "1856541893103882663",
     "engagement_score": 13.86
-  },
-  {
-    "content": "OH: Before I say anything about Starkware, please make sure you don’t have any beepers on you",
-    "tweet_id": "1857065435406959043",
-    "engagement_score": 13.6
   },
   {
     "content": "OH: make sure you spell \"Unformat\" correctly in Grab tonight\n\"Uniform studio\" sucks dude",
@@ -100,9 +85,9 @@
     "engagement_score": 12.61
   },
   {
-    "content": "OH: Eigenlayer wants to coordinate the human race but they can’t even coordinate an org of 50 people",
-    "tweet_id": "1857064135294406945",
-    "engagement_score": 12.53
+    "content": "OH: Before I say anything about Starkware, please make sure you don’t have any beepers on you",
+    "tweet_id": "1857065435406959043",
+    "engagement_score": 12.6
   },
   {
     "content": "OH: never ask:\na man his salary\na woman her age\n@0xBalloonLover why they never critique succinct",
@@ -120,6 +105,11 @@
     "engagement_score": 11.73
   },
   {
+    "content": "OH: Eigenlayer wants to coordinate the human race but they can’t even coordinate an org of 50 people",
+    "tweet_id": "1857064135294406945",
+    "engagement_score": 11.53
+  },
+  {
     "content": "OH: Building on monad is like paying for your sister to attend your high-school reunion",
     "tweet_id": "1857810294199705693",
     "engagement_score": 10.96
@@ -133,11 +123,6 @@
     "content": "OH: Cypherpunk movement is coming to life...",
     "tweet_id": "1856265346690216368",
     "engagement_score": 10.92
-  },
-  {
-    "content": "OH: every time you spoke on that panel i could feel the value of my equity decreasing",
-    "tweet_id": "1856670363955937616",
-    "engagement_score": 10.66
   },
   {
     "content": "OH: \n\n\"How come @SuccinctLabs copied @RiscZero and still have worse performance?\"\n\n\"I think they just forgot to copy the optimizations\"",
@@ -163,6 +148,11 @@
     "content": "OH: the idea of money is\nflawed; money is \na constraint\nonce we free ourselves \nfrom that constraint, we is\nenlightened",
     "tweet_id": "1855691554171555962",
     "engagement_score": 9.81
+  },
+  {
+    "content": "OH: every time you spoke on that panel i could feel the value of my equity decreasing",
+    "tweet_id": "1856670363955937616",
+    "engagement_score": 9.66
   },
   {
     "content": "OH: net worth of someone who…\n1. arrived for vitaliks panel, left for Phil\n2. arrived for Phil panel + beam chain\n3. arrived only for beam chain\n4. had a comfy seat for all three",
@@ -200,6 +190,11 @@
     "engagement_score": 9.05
   },
   {
+    "content": "Hello from Devcon 🔥🚀",
+    "tweet_id": "1856668703036711163",
+    "engagement_score": 8.98
+  },
+  {
     "content": "OH: lots of ‘please clap’ energy from justin announcing beam chain",
     "tweet_id": "1856276729771204742",
     "engagement_score": 8.82
@@ -218,11 +213,6 @@
     "content": "OH: The reason market is up is that every degen at Devcon left their hw wallet back home",
     "tweet_id": "1856350759509733604",
     "engagement_score": 8.73
-  },
-  {
-    "content": "OH: That guy was doing ZK before Circom; an actual masochist",
-    "tweet_id": "1856902678212641279",
-    "engagement_score": 8.69
   },
   {
     "content": "OH: It's dengue not dengo. 🥴",
@@ -268,6 +258,11 @@
     "content": "OH: level 99 security is a TEE secured by Paradigm NDA",
     "tweet_id": "1855797588789776474",
     "engagement_score": 7.75
+  },
+  {
+    "content": "OH: That guy was doing ZK before Circom; an actual masochist",
+    "tweet_id": "1856902678212641279",
+    "engagement_score": 7.69
   },
   {
     "content": "OH: the real Satoshi is the friends we made along the way",
@@ -333,6 +328,11 @@
     "content": "OH: The Ethereum Roast was a clear indicator @MaxResnick1 is not allergic to long term thinking.\n\nWe don’t need funny jokes, edible food or a well planned event, today. \n\nWe have 5 years — like zoom out.",
     "tweet_id": "1857213326423408943",
     "engagement_score": 6.04
+  },
+  {
+    "content": "OH: nice opsec btw lmfaoooo",
+    "tweet_id": "1857216715295261061",
+    "engagement_score": 5.72
   },
   {
     "content": "OH: might be a hot take, but wagyu and caviar are overrated",
@@ -440,11 +440,6 @@
     "engagement_score": 4.75
   },
   {
-    "content": "OH: interop is the word of the day",
-    "tweet_id": "1857022619633000819",
-    "engagement_score": 4.71
-  },
-  {
     "content": "OH: megaETH are the Trump kids (and the founders can’t even vote).\nSolana are the republicans.\nFlashbots and Ethereum are the center-left democrats.",
     "tweet_id": "1857800885058806217",
     "engagement_score": 4.6
@@ -473,6 +468,11 @@
     "content": "OH: the @0xShitTrader guide to being a tough guy: make a manifesto exposing the \"ethereum deepstate,\" show everybody it at Zuzalu, and then launder it through a sesame street anon (hi @0xballoonlover)",
     "tweet_id": "1857431563698417716",
     "engagement_score": 3.81
+  },
+  {
+    "content": "OH: interop is the word of the day",
+    "tweet_id": "1857022619633000819",
+    "engagement_score": 3.71
   },
   {
     "content": "OH: weed?? Nono I thought you said wheat",
