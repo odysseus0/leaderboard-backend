@@ -47,7 +47,7 @@
   {
     "content": "OH: TEE normalization is the CIAs attempt at infiltrating cryptography",
     "tweet_id": "1856649745009160604",
-    "engagement_score": 26.0
+    "engagement_score": 26.01
   },
   {
     "content": "OH: three cheap parachutes are better than one expensive one, discuss",
@@ -95,6 +95,11 @@
     "engagement_score": 12.62
   },
   {
+    "content": "OH: Before I say anything about Starkware, please make sure you don’t have any beepers on you",
+    "tweet_id": "1857065435406959043",
+    "engagement_score": 12.61
+  },
+  {
     "content": "OH: Eigenlayer wants to coordinate the human race but they can’t even coordinate an org of 50 people",
     "tweet_id": "1857064135294406945",
     "engagement_score": 12.54
@@ -113,11 +118,6 @@
     "content": "OH: Bangkok at night? More like edge city amirite?",
     "tweet_id": "1856356758274388328",
     "engagement_score": 11.74
-  },
-  {
-    "content": "OH: Before I say anything about Starkware, please make sure you don’t have any beepers on you",
-    "tweet_id": "1857065435406959043",
-    "engagement_score": 11.61
   },
   {
     "content": "OH: Building on monad is like paying for your sister to attend your high-school reunion",
