@@ -45,14 +45,14 @@
     "engagement_score": 27.58
   },
   {
+    "content": "OH: TEE normalization is the CIAs attempt at infiltrating cryptography",
+    "tweet_id": "1856649745009160604",
+    "engagement_score": 26.03
+  },
+  {
     "content": "OH: three cheap parachutes are better than one expensive one, discuss",
     "tweet_id": "1856230458754744690",
     "engagement_score": 25.51
-  },
-  {
-    "content": "OH: TEE normalization is the CIAs attempt at infiltrating cryptography",
-    "tweet_id": "1856649745009160604",
-    "engagement_score": 25.04
   },
   {
     "content": "OH: incredible result of multi million dollar grant to @0xPARC is .... frog hats",
@@ -80,6 +80,11 @@
     "engagement_score": 14.61
   },
   {
+    "content": "OH: Before I say anything about Starkware, please make sure you don’t have any beepers on you",
+    "tweet_id": "1857065435406959043",
+    "engagement_score": 13.61
+  },
+  {
     "content": "OH: make sure you spell \"Unformat\" correctly in Grab tonight\n\"Uniform studio\" sucks dude",
     "tweet_id": "1857117106619191781",
     "engagement_score": 13.51
@@ -93,11 +98,6 @@
     "content": "OH: 1token = 1like",
     "tweet_id": "1856415515192827973",
     "engagement_score": 12.62
-  },
-  {
-    "content": "OH: Before I say anything about Starkware, please make sure you don’t have any beepers on you",
-    "tweet_id": "1857065435406959043",
-    "engagement_score": 12.61
   },
   {
     "content": "OH: Eigenlayer wants to coordinate the human race but they can’t even coordinate an org of 50 people",
@@ -315,6 +315,11 @@
     "engagement_score": 6.38
   },
   {
+    "content": "OH: I think that last panel could've used a bit more subtraction, if you know what I mean...",
+    "tweet_id": "1857374444970184722",
+    "engagement_score": 6.3
+  },
+  {
     "content": "OH: I'd tell you the joke, but MH has me under NDA :(",
     "tweet_id": "1857072599261434014",
     "engagement_score": 6.25
@@ -385,11 +390,6 @@
     "engagement_score": 5.31
   },
   {
-    "content": "OH: I think that last panel could've used a bit more subtraction, if you know what I mean...",
-    "tweet_id": "1857374444970184722",
-    "engagement_score": 5.3
-  },
-  {
     "content": "OH: just spent 20 minutes writing a tweet and then immediately deleted it bc i was like what am i doing with my life",
     "tweet_id": "1856205036293963936",
     "engagement_score": 5.22
@@ -445,6 +445,11 @@
     "engagement_score": 4.72
   },
   {
+    "content": "OH: megaETH are the Trump kids (and the founders can’t even vote).\nSolana are the republicans.\nFlashbots and Ethereum are the center-left democrats.",
+    "tweet_id": "1857800885058806217",
+    "engagement_score": 4.61
+  },
+  {
     "content": "OH: does this work",
     "tweet_id": "1857395837686427749",
     "engagement_score": 4.52
@@ -485,11 +490,6 @@
     "engagement_score": 3.65
   },
   {
-    "content": "OH: megaETH are the Trump kids (and the founders can’t even vote).\nSolana are the republicans.\nFlashbots and Ethereum are the center-left democrats.",
-    "tweet_id": "1857800885058806217",
-    "engagement_score": 3.61
-  },
-  {
     "content": "OH: so tired even my eye bags launched a layer 2",
     "tweet_id": "1855829936365511069",
     "engagement_score": 3.58
@@ -520,6 +520,11 @@
     "engagement_score": 3.1
   },
   {
+    "content": "OH: I can't believe I assumed Risc0 v Succinct would get less childish after Brian stepped down 🤷",
+    "tweet_id": "1857629905019678892",
+    "engagement_score": 3.05
+  },
+  {
     "content": "OH: I'm gonna jailbreak this content filter, watch me",
     "tweet_id": "1857795867534594396",
     "engagement_score": 2.8
@@ -548,11 +553,6 @@
     "content": "OH: Are grass eating cows happier than corn eating cows?",
     "tweet_id": "1857418116625481842",
     "engagement_score": 2.13
-  },
-  {
-    "content": "OH: I can't believe I assumed Risc0 v Succinct would get less childish after Brian stepped down 🤷",
-    "tweet_id": "1857629905019678892",
-    "engagement_score": 2.05
   },
   {
     "content": "OH: the FatBoy thesis is Ethereum 3.0",
