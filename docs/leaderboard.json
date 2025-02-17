@@ -42,7 +42,7 @@
   {
     "content": "OH: The ticker is echo",
     "tweet_id": "1857080431960547526",
-    "engagement_score": 27.58
+    "engagement_score": 28.58
   },
   {
     "content": "OH: TEE normalization is the CIAs attempt at infiltrating cryptography",
@@ -95,11 +95,6 @@
     "engagement_score": 12.79
   },
   {
-    "content": "OH: 1token = 1like",
-    "tweet_id": "1856415515192827973",
-    "engagement_score": 12.62
-  },
-  {
     "content": "OH: Eigenlayer wants to coordinate the human race but they can’t even coordinate an org of 50 people",
     "tweet_id": "1857064135294406945",
     "engagement_score": 12.54
@@ -118,6 +113,11 @@
     "content": "OH: Bangkok at night? More like edge city amirite?",
     "tweet_id": "1856356758274388328",
     "engagement_score": 11.74
+  },
+  {
+    "content": "OH: 1token = 1like",
+    "tweet_id": "1856415515192827973",
+    "engagement_score": 11.62
   },
   {
     "content": "OH: Building on monad is like paying for your sister to attend your high-school reunion",
@@ -340,6 +340,11 @@
     "engagement_score": 5.7
   },
   {
+    "content": "OH: Apparently, mango juice is good stuff",
+    "tweet_id": "1857355244096667815",
+    "engagement_score": 5.62
+  },
+  {
     "content": "OH: vitalik was here",
     "tweet_id": "1856118420892463122",
     "engagement_score": 5.6
@@ -438,11 +443,6 @@
     "content": "OH: interop is the word of the day",
     "tweet_id": "1857022619633000819",
     "engagement_score": 4.72
-  },
-  {
-    "content": "OH: Apparently, mango juice is good stuff",
-    "tweet_id": "1857355244096667815",
-    "engagement_score": 4.62
   },
   {
     "content": "OH: megaETH are the Trump kids (and the founders can’t even vote).\nSolana are the republicans.\nFlashbots and Ethereum are the center-left democrats.",
