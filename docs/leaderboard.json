@@ -95,11 +95,6 @@
     "engagement_score": 12.62
   },
   {
-    "content": "OH: Before I say anything about Starkware, please make sure you don’t have any beepers on you",
-    "tweet_id": "1857065435406959043",
-    "engagement_score": 12.61
-  },
-  {
     "content": "OH: never ask:\na man his salary\na woman her age\n@0xBalloonLover why they never critique succinct",
     "tweet_id": "1857265780133425350",
     "engagement_score": 12.28
@@ -113,6 +108,11 @@
     "content": "OH: Bangkok at night? More like edge city amirite?",
     "tweet_id": "1856356758274388328",
     "engagement_score": 11.74
+  },
+  {
+    "content": "OH: Before I say anything about Starkware, please make sure you don’t have any beepers on you",
+    "tweet_id": "1857065435406959043",
+    "engagement_score": 11.61
   },
   {
     "content": "OH: Eigenlayer wants to coordinate the human race but they can’t even coordinate an org of 50 people",
@@ -400,11 +400,6 @@
     "engagement_score": 5.22
   },
   {
-    "content": "OH: If I had to bet on people with more knowledge or people with better tools, I would always bet on more knowledge.\nBarry Whitehat",
-    "tweet_id": "1857043499335528943",
-    "engagement_score": 5.2
-  },
-  {
     "content": "OH: where is the dispensary in the venue?",
     "tweet_id": "1856293716882792584",
     "engagement_score": 5.07
@@ -460,6 +455,11 @@
     "engagement_score": 4.41
   },
   {
+    "content": "OH: If I had to bet on people with more knowledge or people with better tools, I would always bet on more knowledge.\nBarry Whitehat",
+    "tweet_id": "1857043499335528943",
+    "engagement_score": 4.2
+  },
+  {
     "content": "OH: The Ethereum ecosystem would be much healthier if we roasted Consensys leadership every quarter",
     "tweet_id": "1857072222113829112",
     "engagement_score": 4.04
@@ -495,11 +495,6 @@
     "engagement_score": 3.58
   },
   {
-    "content": "OH: mouse voice penenba",
-    "tweet_id": "1856982742761668894",
-    "engagement_score": 3.57
-  },
-  {
     "content": "OH: ayo minnasan!\nvib = wow",
     "tweet_id": "1857022159144604116",
     "engagement_score": 3.54
@@ -533,6 +528,11 @@
     "content": "OH: I heard that @n_yushkevich is at DevCon with the @quicknode team?",
     "tweet_id": "1856281881093853387",
     "engagement_score": 2.62
+  },
+  {
+    "content": "OH: mouse voice penenba",
+    "tweet_id": "1856982742761668894",
+    "engagement_score": 2.57
   },
   {
     "content": "OH: Just trust the curves, man",
