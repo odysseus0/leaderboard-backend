@@ -15,11 +15,6 @@
     "engagement_score": 236.43
   },
   {
-    "content": "OH: have you hugged a solo staker today?",
-    "tweet_id": "1856115200660746546",
-    "engagement_score": 198.05
-  },
-  {
     "content": "OH: neeraj didn't know what teleport was..",
     "tweet_id": "1856620974034051277",
     "engagement_score": 45.84
@@ -42,7 +37,7 @@
   {
     "content": "OH: The ticker is echo",
     "tweet_id": "1857080431960547526",
-    "engagement_score": 28.61
+    "engagement_score": 28.66
   },
   {
     "content": "OH: TEE normalization is the CIAs attempt at infiltrating cryptography",
@@ -68,6 +63,11 @@
     "content": "OH: the beau-tee!",
     "tweet_id": "1856541893103882663",
     "engagement_score": 15.07
+  },
+  {
+    "content": "OH: have you hugged a solo staker today?",
+    "tweet_id": "1856115200660746546",
+    "engagement_score": 15.0
   },
   {
     "content": "OH: all blob no gas in 2025",
