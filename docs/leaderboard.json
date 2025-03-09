@@ -27,7 +27,7 @@
   {
     "content": "OH: where's c-node???",
     "tweet_id": "1856599589035401593",
-    "engagement_score": 42.73
+    "engagement_score": 43.73
   },
   {
     "content": "OH: mopeds are the L2s of Bangkok",
@@ -75,6 +75,11 @@
     "engagement_score": 14.61
   },
   {
+    "content": "OH: the beau-tee!",
+    "tweet_id": "1856541893103882663",
+    "engagement_score": 14.1
+  },
+  {
     "content": "OH: Before I say anything about Starkware, please make sure you don’t have any beepers on you",
     "tweet_id": "1857065435406959043",
     "engagement_score": 13.61
@@ -83,11 +88,6 @@
     "content": "OH: make sure you spell \"Unformat\" correctly in Grab tonight\n\"Uniform studio\" sucks dude",
     "tweet_id": "1857117106619191781",
     "engagement_score": 13.51
-  },
-  {
-    "content": "OH: the beau-tee!",
-    "tweet_id": "1856541893103882663",
-    "engagement_score": 13.1
   },
   {
     "content": "OH: You have to imagine wealth as vectors in 3D-space",
@@ -370,6 +370,11 @@
     "engagement_score": 5.42
   },
   {
+    "content": "OH: you know kitkat doesn’t have silver foil anymore",
+    "tweet_id": "1856600630095208518",
+    "engagement_score": 5.39
+  },
+  {
     "content": "OH: Sure Grandma let's get you to bed",
     "tweet_id": "1856652002207354949",
     "engagement_score": 5.37
@@ -455,9 +460,9 @@
     "engagement_score": 4.41
   },
   {
-    "content": "OH: you know kitkat doesn’t have silver foil anymore",
-    "tweet_id": "1856600630095208518",
-    "engagement_score": 4.39
+    "content": "OH: Hello. I am at Devcon 🙌🏻",
+    "tweet_id": "1856547167118172216",
+    "engagement_score": 4.37
   },
   {
     "content": "OH: The Ethereum ecosystem would be much healthier if we roasted Consensys leadership every quarter",
@@ -498,11 +503,6 @@
     "content": "OH: ayo minnasan!\nvib = wow",
     "tweet_id": "1857022159144604116",
     "engagement_score": 3.54
-  },
-  {
-    "content": "OH: Hello. I am at Devcon 🙌🏻",
-    "tweet_id": "1856547167118172216",
-    "engagement_score": 3.37
   },
   {
     "content": "OH: I AM HACKED HAHAHHHA",
