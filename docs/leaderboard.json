@@ -185,11 +185,6 @@
     "engagement_score": 9.29
   },
   {
-    "content": "OH: Who is building SOL on Ethereum?",
-    "tweet_id": "1859950062828171564",
-    "engagement_score": 9.08
-  },
-  {
     "content": "OH: long live TEEs, cryptography is dead",
     "tweet_id": "1855890015496089706",
     "engagement_score": 9.06
@@ -260,6 +255,11 @@
     "engagement_score": 8.21
   },
   {
+    "content": "OH: Who is building SOL on Ethereum?",
+    "tweet_id": "1859950062828171564",
+    "engagement_score": 8.08
+  },
+  {
     "content": "OH: Best time this year is to meet up so many fantastic women here",
     "tweet_id": "1857453784823103983",
     "engagement_score": 7.99
@@ -328,11 +328,6 @@
     "content": "OH: might be a hot take, but wagyu and caviar are overrated",
     "tweet_id": "1857801654344524221",
     "engagement_score": 5.73
-  },
-  {
-    "content": "OH: Apparently, mango juice is good stuff",
-    "tweet_id": "1857355244096667815",
-    "engagement_score": 5.63
   },
   {
     "content": "OH: vitalik was here",
@@ -443,6 +438,11 @@
     "content": "OH: interop is the word of the day",
     "tweet_id": "1857022619633000819",
     "engagement_score": 4.73
+  },
+  {
+    "content": "OH: Apparently, mango juice is good stuff",
+    "tweet_id": "1857355244096667815",
+    "engagement_score": 4.63
   },
   {
     "content": "OH: megaETH are the Trump kids (and the founders can’t even vote).\nSolana are the republicans.\nFlashbots and Ethereum are the center-left democrats.",
