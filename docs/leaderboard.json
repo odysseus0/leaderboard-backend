@@ -15,11 +15,6 @@
     "engagement_score": 236.19
   },
   {
-    "content": "OH: have you hugged a solo staker today?",
-    "tweet_id": "1856115200660746546",
-    "engagement_score": 197.75
-  },
-  {
     "content": "OH: neeraj didn't know what teleport was..",
     "tweet_id": "1856620974034051277",
     "engagement_score": 45.85
@@ -52,7 +47,7 @@
   {
     "content": "OH: three cheap parachutes are better than one expensive one, discuss",
     "tweet_id": "1856230458754744690",
-    "engagement_score": 25.57
+    "engagement_score": 25.58
   },
   {
     "content": "OH: incredible result of multi million dollar grant to @0xPARC is .... frog hats",
@@ -68,6 +63,11 @@
     "content": "OH: the beau-tee!",
     "tweet_id": "1856541893103882663",
     "engagement_score": 15.14
+  },
+  {
+    "content": "OH: have you hugged a solo staker today?",
+    "tweet_id": "1856115200660746546",
+    "engagement_score": 15.0
   },
   {
     "content": "OH: all blob no gas in 2025",
