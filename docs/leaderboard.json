@@ -30,11 +30,6 @@
     "engagement_score": 44.74
   },
   {
-    "content": "OH: mopeds are the L2s of Bangkok",
-    "tweet_id": "1857795629885391199",
-    "engagement_score": 34.43
-  },
-  {
     "content": "OH: (researcher) It's cheaper to launch Us-east1 to Space than open source RTL to GSD for a single chip.",
     "tweet_id": "1856683778304876816",
     "engagement_score": 32.41
@@ -230,11 +225,6 @@
     "engagement_score": 8.7
   },
   {
-    "content": "OH: Zk is overestimated. Isnt it?",
-    "tweet_id": "1856363701927915872",
-    "engagement_score": 8.65
-  },
-  {
     "content": "OH: there’s a private key hidden somewhere on level 2. a prime number room has stickers in it, the adhesive will reveal all",
     "tweet_id": "1857051996961861936",
     "engagement_score": 8.61
@@ -255,19 +245,9 @@
     "engagement_score": 8.51
   },
   {
-    "content": "OH: Best time this year is to meet up so many fantastic women here",
-    "tweet_id": "1857453784823103983",
-    "engagement_score": 8.09
-  },
-  {
     "content": "OH: Who is building SOL on Ethereum?",
     "tweet_id": "1859950062828171564",
     "engagement_score": 8.08
-  },
-  {
-    "content": "OH: Sir. A second Dan Robinson auction mechanism has hit a Paradigm portco",
-    "tweet_id": "1856367947570393494",
-    "engagement_score": 7.93
   },
   {
     "content": "OH: level 99 security is a TEE secured by Paradigm NDA",
@@ -278,11 +258,6 @@
     "content": "OH: the real Satoshi is the friends we made along the way",
     "tweet_id": "1855985928810234115",
     "engagement_score": 7.67
-  },
-  {
-    "content": "OH: itsa mee the tee! (super mario voice)",
-    "tweet_id": "1856415155397017982",
-    "engagement_score": 7.45
   },
   {
     "content": "OH at Lumphini Park:\n\n“Are these fish gonna be ok with all these styrofoam??”\n“I’m sure they are used to it”",
@@ -298,6 +273,11 @@
     "content": "OH: 5 years to get to 4 second blocktimes\n5 years to get to 4 second blocktimes 🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣\n5 years to get to 4 second blocktimes 🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣",
     "tweet_id": "1856293262346133611",
     "engagement_score": 7.11
+  },
+  {
+    "content": "OH: mopeds are the L2s of Bangkok",
+    "tweet_id": "1857795629885391199",
+    "engagement_score": 7.0
   },
   {
     "content": "OH: I post things that shouldn't be posted, like the fact that I used to be human.",
@@ -380,16 +360,6 @@
     "engagement_score": 5.38
   },
   {
-    "content": "OH: Hello. I am at Devcon 🙌🏻",
-    "tweet_id": "1856547167118172216",
-    "engagement_score": 5.38
-  },
-  {
-    "content": "OH: None of these people are Ethereum.",
-    "tweet_id": "1856612248854126898",
-    "engagement_score": 5.32
-  },
-  {
     "content": "OH: just spent 20 minutes writing a tweet and then immediately deleted it bc i was like what am i doing with my life",
     "tweet_id": "1856205036293963936",
     "engagement_score": 5.22
@@ -460,19 +430,9 @@
     "engagement_score": 4.48
   },
   {
-    "content": "OH: Yeah, there's gonna be a rug. TBD",
-    "tweet_id": "1857801598082125882",
-    "engagement_score": 4.42
-  },
-  {
     "content": "OH: The Ethereum ecosystem would be much healthier if we roasted Consensys leadership every quarter",
     "tweet_id": "1857072222113829112",
     "engagement_score": 4.05
-  },
-  {
-    "content": "OH: the @0xShitTrader guide to being a tough guy: make a manifesto exposing the \"ethereum deepstate,\" show everybody it at Zuzalu, and then launder it through a sesame street anon (hi @0xballoonlover)",
-    "tweet_id": "1857431563698417716",
-    "engagement_score": 3.86
   },
   {
     "content": "OH: weed?? Nono I thought you said wheat",
@@ -490,6 +450,11 @@
     "engagement_score": 3.66
   },
   {
+    "content": "",
+    "tweet_id": "1856363701927915872",
+    "engagement_score": 3.65
+  },
+  {
     "content": "OH: mouse voice penenba",
     "tweet_id": "1856982742761668894",
     "engagement_score": 3.58
@@ -505,9 +470,9 @@
     "engagement_score": 3.55
   },
   {
-    "content": "OH: I AM HACKED HAHAHHHA",
-    "tweet_id": "1857417387328372916",
-    "engagement_score": 3.26
+    "content": "",
+    "tweet_id": "1856547167118172216",
+    "engagement_score": 3.38
   },
   {
     "content": "OH: hello anonymous",
@@ -520,9 +485,9 @@
     "engagement_score": 3.11
   },
   {
-    "content": "OH: I can't believe I assumed Risc0 v Succinct would get less childish after Brian stepped down 🤷",
-    "tweet_id": "1857629905019678892",
-    "engagement_score": 3.06
+    "content": "OH: Best time this year is to meet up so many fantastic women here",
+    "tweet_id": "1857453784823103983",
+    "engagement_score": 3.0
   },
   {
     "content": "OH: I'm gonna jailbreak this content filter, watch me",
@@ -555,8 +520,28 @@
     "engagement_score": 2.14
   },
   {
+    "content": "OH: Yeah, there's gonna be a rug. TBD",
+    "tweet_id": "1857801598082125882",
+    "engagement_score": 2.0
+  },
+  {
+    "content": "OH: I can't believe I assumed Risc0 v Succinct would get less childish after Brian stepped down 🤷",
+    "tweet_id": "1857629905019678892",
+    "engagement_score": 1.0
+  },
+  {
+    "content": "OH: the @0xShitTrader guide to being a tough guy: make a manifesto exposing the \"ethereum deepstate,\" show everybody it at Zuzalu, and then launder it through a sesame street anon (hi @0xballoonlover)",
+    "tweet_id": "1857431563698417716",
+    "engagement_score": 1.0
+  },
+  {
+    "content": "OH: I AM HACKED HAHAHHHA",
+    "tweet_id": "1857417387328372916",
+    "engagement_score": 1.0
+  },
+  {
     "content": "OH: the FatBoy thesis is Ethereum 3.0",
     "tweet_id": "1857795277106594265",
-    "engagement_score": 1.79
+    "engagement_score": 0.0
   }
 ]
