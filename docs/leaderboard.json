@@ -17,7 +17,7 @@
   {
     "content": "OH: have you hugged a solo staker today?",
     "tweet_id": "1856115200660746546",
-    "engagement_score": 198.4
+    "engagement_score": 189.45
   },
   {
     "content": "OH: neeraj didn't know what teleport was..",
@@ -160,11 +160,6 @@
     "engagement_score": 10.13
   },
   {
-    "content": "OH: the idea of money is\nflawed; money is \na constraint\nonce we free ourselves \nfrom that constraint, we is\nenlightened",
-    "tweet_id": "1855691554171555962",
-    "engagement_score": 9.82
-  },
-  {
     "content": "OH: what even is an AI circuit breaker at the sequence level? Just marketing?",
     "tweet_id": "1857828855773360459",
     "engagement_score": 9.67
@@ -193,11 +188,6 @@
     "content": "OH: Why do I have to eat bananas? Have you ever had a Polish banana.",
     "tweet_id": "1856371034858955042",
     "engagement_score": 9.21
-  },
-  {
-    "content": "OH: long live TEEs, cryptography is dead",
-    "tweet_id": "1855890015496089706",
-    "engagement_score": 9.06
   },
   {
     "content": "OH: lots of ‘please clap’ energy from justin announcing beam chain",
@@ -275,11 +265,6 @@
     "engagement_score": 7.76
   },
   {
-    "content": "OH: the real Satoshi is the friends we made along the way",
-    "tweet_id": "1855985928810234115",
-    "engagement_score": 7.67
-  },
-  {
     "content": "OH: itsa mee the tee! (super mario voice)",
     "tweet_id": "1856415155397017982",
     "engagement_score": 7.45
@@ -325,14 +310,14 @@
     "engagement_score": 6.26
   },
   {
-    "content": "OH: how much money you have is how much you can influence the future. Money represent future freedom.",
-    "tweet_id": "1855689844850139330",
-    "engagement_score": 6.15
-  },
-  {
     "content": "OH: The Ethereum Roast was a clear indicator @MaxResnick1 is not allergic to long term thinking.\n\nWe don’t need funny jokes, edible food or a well planned event, today. \n\nWe have 5 years — like zoom out.",
     "tweet_id": "1857213326423408943",
     "engagement_score": 6.06
+  },
+  {
+    "content": "OH: long live TEEs, cryptography is dead",
+    "tweet_id": "1855890015496089706",
+    "engagement_score": 6.0
   },
   {
     "content": "OH: might be a hot take, but wagyu and caviar are overrated",
@@ -410,6 +395,11 @@
     "engagement_score": 5.08
   },
   {
+    "content": "OH: the real Satoshi is the friends we made along the way",
+    "tweet_id": "1855985928810234115",
+    "engagement_score": 5.0
+  },
+  {
     "content": "OH: Maybe Ethereum is like California…\n\nEternally in competition between “how much potential can we assemble in one place?” and “how wastefully can we squander it?”",
     "tweet_id": "1856362948777644098",
     "engagement_score": 4.91
@@ -468,6 +458,16 @@
     "content": "OH: The Ethereum ecosystem would be much healthier if we roasted Consensys leadership every quarter",
     "tweet_id": "1857072222113829112",
     "engagement_score": 4.05
+  },
+  {
+    "content": "OH: the idea of money is\nflawed; money is \na constraint\nonce we free ourselves \nfrom that constraint, we is\nenlightened",
+    "tweet_id": "1855691554171555962",
+    "engagement_score": 4.0
+  },
+  {
+    "content": "OH: how much money you have is how much you can influence the future. Money represent future freedom.",
+    "tweet_id": "1855689844850139330",
+    "engagement_score": 4.0
   },
   {
     "content": "OH: the @0xShitTrader guide to being a tough guy: make a manifesto exposing the \"ethereum deepstate,\" show everybody it at Zuzalu, and then launder it through a sesame street anon (hi @0xballoonlover)",
