@@ -460,11 +460,6 @@
     "engagement_score": 4.48
   },
   {
-    "content": "OH: Yeah, there's gonna be a rug. TBD",
-    "tweet_id": "1857801598082125882",
-    "engagement_score": 4.43
-  },
-  {
     "content": "OH: The Ethereum ecosystem would be much healthier if we roasted Consensys leadership every quarter",
     "tweet_id": "1857072222113829112",
     "engagement_score": 4.05
@@ -538,6 +533,11 @@
     "content": "OH: Just trust the curves, man",
     "tweet_id": "1856952717689622715",
     "engagement_score": 2.58
+  },
+  {
+    "content": "",
+    "tweet_id": "1857801598082125882",
+    "engagement_score": 2.43
   },
   {
     "content": "OH: this is not cool",
