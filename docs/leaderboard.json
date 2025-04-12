@@ -145,11 +145,6 @@
     "engagement_score": 10.64
   },
   {
-    "content": "OH: \"Frogs are cool\"",
-    "tweet_id": "1856248904938815823",
-    "engagement_score": 10.29
-  },
-  {
     "content": "OH: @malleshpai drafts all SMG papers during lunch break on a napkin before he goes back to more serious work.",
     "tweet_id": "1857275208500916225",
     "engagement_score": 10.21
@@ -187,6 +182,11 @@
   {
     "content": "OH: Its about the dream chain, not the beam chain",
     "tweet_id": "1857078603273367923",
+    "engagement_score": 9.29
+  },
+  {
+    "content": "OH: \"Frogs are cool\"",
+    "tweet_id": "1856248904938815823",
     "engagement_score": 9.29
   },
   {
