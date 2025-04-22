@@ -42,7 +42,7 @@
   {
     "content": "OH: The ticker is echo",
     "tweet_id": "1857080431960547526",
-    "engagement_score": 27.62
+    "engagement_score": 26.62
   },
   {
     "content": "OH: TEE normalization is the CIAs attempt at infiltrating cryptography",
@@ -150,11 +150,6 @@
     "engagement_score": 10.21
   },
   {
-    "content": "OH: why would you think max is bad at coordinating? He planned a roast of Ethereum, roasted bankless, then ran out of content by not telling enough people to prepare jokes.",
-    "tweet_id": "1857076164768022919",
-    "engagement_score": 10.13
-  },
-  {
     "content": "OH: Building on monad is like paying for your sister to attend your high-school reunion",
     "tweet_id": "1857810294199705693",
     "engagement_score": 10.11
@@ -180,14 +175,14 @@
     "engagement_score": 9.45
   },
   {
-    "content": "OH: Its about the dream chain, not the beam chain",
-    "tweet_id": "1857078603273367923",
-    "engagement_score": 9.29
-  },
-  {
     "content": "OH: Why do I have to eat bananas? Have you ever had a Polish banana.",
     "tweet_id": "1856371034858955042",
     "engagement_score": 9.21
+  },
+  {
+    "content": "OH: why would you think max is bad at coordinating? He planned a roast of Ethereum, roasted bankless, then ran out of content by not telling enough people to prepare jokes.",
+    "tweet_id": "1857076164768022919",
+    "engagement_score": 9.13
   },
   {
     "content": "OH: long live TEEs, cryptography is dead",
@@ -203,11 +198,6 @@
     "content": "OH: According to the new market conditions I identify as an ai agent memecoin",
     "tweet_id": "1857033315103977695",
     "engagement_score": 8.81
-  },
-  {
-    "content": "OH: it’s about the dream chain not the beam chain",
-    "tweet_id": "1857078665281970443",
-    "engagement_score": 8.78
   },
   {
     "content": "OH: The reason market is up is that every degen at Devcon left their hw wallet back home",
@@ -245,14 +235,9 @@
     "engagement_score": 8.55
   },
   {
-    "content": "OH: paradigm DID NOT build SP1, Risc0 did",
-    "tweet_id": "1857075906092613842",
-    "engagement_score": 8.52
-  },
-  {
-    "content": "OH: unsurprising that max can't take the heat #FlashbotsWasRight",
-    "tweet_id": "1857076743560937572",
-    "engagement_score": 8.51
+    "content": "OH: Its about the dream chain, not the beam chain",
+    "tweet_id": "1857078603273367923",
+    "engagement_score": 8.29
   },
   {
     "content": "OH: Best time this year is to meet up so many fantastic women here",
@@ -270,6 +255,11 @@
     "engagement_score": 7.93
   },
   {
+    "content": "OH: it’s about the dream chain not the beam chain",
+    "tweet_id": "1857078665281970443",
+    "engagement_score": 7.78
+  },
+  {
     "content": "OH: level 99 security is a TEE secured by Paradigm NDA",
     "tweet_id": "1855797588789776474",
     "engagement_score": 7.76
@@ -280,14 +270,19 @@
     "engagement_score": 7.67
   },
   {
+    "content": "OH: paradigm DID NOT build SP1, Risc0 did",
+    "tweet_id": "1857075906092613842",
+    "engagement_score": 7.52
+  },
+  {
+    "content": "OH: unsurprising that max can't take the heat #FlashbotsWasRight",
+    "tweet_id": "1857076743560937572",
+    "engagement_score": 7.51
+  },
+  {
     "content": "OH: itsa mee the tee! (super mario voice)",
     "tweet_id": "1856415155397017982",
     "engagement_score": 7.45
-  },
-  {
-    "content": "OH: Canada is basically America’s L2. It’s not a sidechain, it has no independent security…",
-    "tweet_id": "1857072716450304115",
-    "engagement_score": 7.21
   },
   {
     "content": "OH: 5 years to get to 4 second blocktimes\n5 years to get to 4 second blocktimes 🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣\n5 years to get to 4 second blocktimes 🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣",
@@ -320,9 +315,9 @@
     "engagement_score": 6.31
   },
   {
-    "content": "OH: I'd tell you the joke, but MH has me under NDA :(",
-    "tweet_id": "1857072599261434014",
-    "engagement_score": 6.26
+    "content": "OH: Canada is basically America’s L2. It’s not a sidechain, it has no independent security…",
+    "tweet_id": "1857072716450304115",
+    "engagement_score": 6.21
   },
   {
     "content": "OH: how much money you have is how much you can influence the future. Money represent future freedom.",
@@ -383,6 +378,11 @@
     "content": "OH: None of these people are Ethereum.",
     "tweet_id": "1856612248854126898",
     "engagement_score": 5.32
+  },
+  {
+    "content": "OH: I'd tell you the joke, but MH has me under NDA :(",
+    "tweet_id": "1857072599261434014",
+    "engagement_score": 5.26
   },
   {
     "content": "OH: If I had to bet on people with more knowledge or people with better tools, I would always bet on more knowledge.\nBarry Whitehat",
