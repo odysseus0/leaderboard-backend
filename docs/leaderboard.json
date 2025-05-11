@@ -17,7 +17,7 @@
   {
     "content": "OH: (researcher) It's cheaper to launch Us-east1 to Space than open source RTL to GSD for a single chip.",
     "tweet_id": "1856683778304876816",
-    "engagement_score": 32.44
+    "engagement_score": 31.44
   },
   {
     "content": "OH: (security researcher) There should be a space-based layer-1 network deployed on nano satellites, designed to serve as the root of trust and final authority",
@@ -50,11 +50,6 @@
     "engagement_score": 15.35
   },
   {
-    "content": "OH: the beau-tee!",
-    "tweet_id": "1856541893103882663",
-    "engagement_score": 15.22
-  },
-  {
     "content": "OH: have you hugged a solo staker today?",
     "tweet_id": "1856115200660746546",
     "engagement_score": 14.95
@@ -68,6 +63,11 @@
     "content": "OH: all blob no gas in 2025",
     "tweet_id": "1856370815702639021",
     "engagement_score": 14.63
+  },
+  {
+    "content": "OH: the beau-tee!",
+    "tweet_id": "1856541893103882663",
+    "engagement_score": 14.22
   },
   {
     "content": "OH: Before I say anything about Starkware, please make sure you don’t have any beepers on you",
