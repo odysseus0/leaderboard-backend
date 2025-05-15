@@ -1,25 +1,5 @@
 [
   {
-    "content": "OH: (security researcher) There should be a space-based layer-1 network deployed on nano satellites, designed to serve as the root of trust and final authority",
-    "tweet_id": "1857795908601077974",
-    "engagement_score": 820.29
-  },
-  {
-    "content": "Hello from Devcon 🔥🚀",
-    "tweet_id": "1856668703036711163",
-    "engagement_score": 237.7
-  },
-  {
-    "content": "OH: nice opsec btw lmfaoooo",
-    "tweet_id": "1857216715295261061",
-    "engagement_score": 234.44
-  },
-  {
-    "content": "OH: have you hugged a solo staker today?",
-    "tweet_id": "1856115200660746546",
-    "engagement_score": 194.55
-  },
-  {
     "content": "OH: neeraj didn't know what teleport was..",
     "tweet_id": "1856620974034051277",
     "engagement_score": 45.85
@@ -37,12 +17,17 @@
   {
     "content": "OH: (researcher) It's cheaper to launch Us-east1 to Space than open source RTL to GSD for a single chip.",
     "tweet_id": "1856683778304876816",
-    "engagement_score": 32.44
+    "engagement_score": 32.54
+  },
+  {
+    "content": "OH: (security researcher) There should be a space-based layer-1 network deployed on nano satellites, designed to serve as the root of trust and final authority",
+    "tweet_id": "1857795908601077974",
+    "engagement_score": 30.49
   },
   {
     "content": "OH: The ticker is echo",
     "tweet_id": "1857080431960547526",
-    "engagement_score": 27.63
+    "engagement_score": 27.68
   },
   {
     "content": "OH: TEE normalization is the CIAs attempt at infiltrating cryptography",
@@ -68,6 +53,11 @@
     "content": "OH: the beau-tee!",
     "tweet_id": "1856541893103882663",
     "engagement_score": 15.23
+  },
+  {
+    "content": "OH: have you hugged a solo staker today?",
+    "tweet_id": "1856115200660746546",
+    "engagement_score": 15.0
   },
   {
     "content": "OH: Nurturing diversity is critical, biodiversity is the only way organisms in a garden can survive.",
@@ -158,6 +148,11 @@
     "content": "OH: why would you think max is bad at coordinating? He planned a roast of Ethereum, roasted bankless, then ran out of content by not telling enough people to prepare jokes.",
     "tweet_id": "1857076164768022919",
     "engagement_score": 10.13
+  },
+  {
+    "content": "Hello from Devcon 🔥🚀",
+    "tweet_id": "1856668703036711163",
+    "engagement_score": 10.0
   },
   {
     "content": "OH: the idea of money is\nflawed; money is \na constraint\nonce we free ourselves \nfrom that constraint, we is\nenlightened",
@@ -298,6 +293,11 @@
     "content": "OH: 5 years to get to 4 second blocktimes\n5 years to get to 4 second blocktimes 🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣\n5 years to get to 4 second blocktimes 🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣",
     "tweet_id": "1856293262346133611",
     "engagement_score": 7.11
+  },
+  {
+    "content": "OH: nice opsec btw lmfaoooo",
+    "tweet_id": "1857216715295261061",
+    "engagement_score": 6.74
   },
   {
     "content": "OH: I post things that shouldn't be posted, like the fact that I used to be human.",
