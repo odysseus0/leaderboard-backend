@@ -90,11 +90,6 @@
     "engagement_score": 12.79
   },
   {
-    "content": "OH: 1token = 1like",
-    "tweet_id": "1856415515192827973",
-    "engagement_score": 12.63
-  },
-  {
     "content": "OH: Before I say anything about Starkware, please make sure you don’t have any beepers on you",
     "tweet_id": "1857065435406959043",
     "engagement_score": 12.62
@@ -113,6 +108,11 @@
     "content": "OH: Bangkok at night? More like edge city amirite?",
     "tweet_id": "1856356758274388328",
     "engagement_score": 11.77
+  },
+  {
+    "content": "OH: 1token = 1like",
+    "tweet_id": "1856415515192827973",
+    "engagement_score": 11.63
   },
   {
     "content": "OH: Eigenlayer wants to coordinate the human race but they can’t even coordinate an org of 50 people",
