@@ -20,11 +20,6 @@
     "engagement_score": 194.55
   },
   {
-    "content": "OH: neeraj didn't know what teleport was..",
-    "tweet_id": "1856620974034051277",
-    "engagement_score": 45.85
-  },
-  {
     "content": "OH: where's c-node???",
     "tweet_id": "1856599589035401593",
     "engagement_score": 44.74
@@ -60,6 +55,11 @@
     "engagement_score": 19.15
   },
   {
+    "content": "OH: neeraj didn't know what teleport was..",
+    "tweet_id": "1856620974034051277",
+    "engagement_score": 16.0
+  },
+  {
     "content": "OH: okay but the laser shooting through the ethereum logo is worth at least a year of roadmap",
     "tweet_id": "1856374322228756862",
     "engagement_score": 15.35
@@ -73,11 +73,6 @@
     "content": "OH: Nurturing diversity is critical, biodiversity is the only way organisms in a garden can survive.",
     "tweet_id": "1856667983482876297",
     "engagement_score": 14.64
-  },
-  {
-    "content": "OH: all blob no gas in 2025",
-    "tweet_id": "1856370815702639021",
-    "engagement_score": 14.63
   },
   {
     "content": "OH: Before I say anything about Starkware, please make sure you don’t have any beepers on you",
@@ -95,11 +90,6 @@
     "engagement_score": 12.79
   },
   {
-    "content": "OH: 1token = 1like",
-    "tweet_id": "1856415515192827973",
-    "engagement_score": 12.63
-  },
-  {
     "content": "OH: Eigenlayer wants to coordinate the human race but they can’t even coordinate an org of 50 people",
     "tweet_id": "1857064135294406945",
     "engagement_score": 12.55
@@ -108,11 +98,6 @@
     "content": "OH: never ask:\na man his salary\na woman her age\n@0xBalloonLover why they never critique succinct",
     "tweet_id": "1857265780133425350",
     "engagement_score": 12.3
-  },
-  {
-    "content": "OH: Ahhhhhhhh im beamin",
-    "tweet_id": "1856379053323739515",
-    "engagement_score": 11.78
   },
   {
     "content": "OH: Bangkok at night? More like edge city amirite?",
@@ -200,6 +185,11 @@
     "engagement_score": 9.06
   },
   {
+    "content": "OH: 1token = 1like",
+    "tweet_id": "1856415515192827973",
+    "engagement_score": 9.0
+  },
+  {
     "content": "OH: lots of ‘please clap’ energy from justin announcing beam chain",
     "tweet_id": "1856276729771204742",
     "engagement_score": 8.84
@@ -222,11 +212,6 @@
   {
     "content": "OH: That guy was doing ZK before Circom; an actual masochist",
     "tweet_id": "1856902678212641279",
-    "engagement_score": 8.7
-  },
-  {
-    "content": "OH: It's dengue not dengo. 🥴",
-    "tweet_id": "1856372032201474264",
     "engagement_score": 8.7
   },
   {
@@ -265,6 +250,11 @@
     "engagement_score": 8.14
   },
   {
+    "content": "OH: Ahhhhhhhh im beamin",
+    "tweet_id": "1856379053323739515",
+    "engagement_score": 8.0
+  },
+  {
     "content": "OH: Sir. A second Dan Robinson auction mechanism has hit a Paradigm portco",
     "tweet_id": "1856367947570393494",
     "engagement_score": 7.93
@@ -298,6 +288,11 @@
     "content": "OH: 5 years to get to 4 second blocktimes\n5 years to get to 4 second blocktimes 🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣\n5 years to get to 4 second blocktimes 🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣",
     "tweet_id": "1856293262346133611",
     "engagement_score": 7.11
+  },
+  {
+    "content": "OH: all blob no gas in 2025",
+    "tweet_id": "1856370815702639021",
+    "engagement_score": 7.0
   },
   {
     "content": "OH: I post things that shouldn't be posted, like the fact that I used to be human.",
@@ -380,11 +375,6 @@
     "engagement_score": 5.38
   },
   {
-    "content": "OH: Hello. I am at Devcon 🙌🏻",
-    "tweet_id": "1856547167118172216",
-    "engagement_score": 5.38
-  },
-  {
     "content": "OH: None of these people are Ethereum.",
     "tweet_id": "1856612248854126898",
     "engagement_score": 5.32
@@ -410,6 +400,11 @@
     "engagement_score": 5.08
   },
   {
+    "content": "OH: It's dengue not dengo. 🥴",
+    "tweet_id": "1856372032201474264",
+    "engagement_score": 5.0
+  },
+  {
     "content": "OH: Maybe Ethereum is like California…\n\nEternally in competition between “how much potential can we assemble in one place?” and “how wastefully can we squander it?”",
     "tweet_id": "1856362948777644098",
     "engagement_score": 4.91
@@ -418,11 +413,6 @@
     "content": "OH: Vald has this idea of everyone walking around being money.",
     "tweet_id": "1855695139466838366",
     "engagement_score": 4.84
-  },
-  {
-    "content": "OH: First time dengo not that bad, second time dengo and death.",
-    "tweet_id": "1856370122308411446",
-    "engagement_score": 4.81
   },
   {
     "content": "OH: Consider Crypto AG and the modern, TEE equivalent 🫡",
@@ -553,6 +543,16 @@
     "content": "OH: Are grass eating cows happier than corn eating cows?",
     "tweet_id": "1857418116625481842",
     "engagement_score": 2.14
+  },
+  {
+    "content": "OH: Hello. I am at Devcon 🙌🏻",
+    "tweet_id": "1856547167118172216",
+    "engagement_score": 2.0
+  },
+  {
+    "content": "OH: First time dengo not that bad, second time dengo and death.",
+    "tweet_id": "1856370122308411446",
+    "engagement_score": 2.0
   },
   {
     "content": "OH: the FatBoy thesis is Ethereum 3.0",
