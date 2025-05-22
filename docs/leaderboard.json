@@ -90,11 +90,6 @@
     "engagement_score": 13.52
   },
   {
-    "content": "OH: You have to imagine wealth as vectors in 3D-space",
-    "tweet_id": "1855690771845783560",
-    "engagement_score": 12.79
-  },
-  {
     "content": "OH: 1token = 1like",
     "tweet_id": "1856415515192827973",
     "engagement_score": 12.63
@@ -335,6 +330,11 @@
     "engagement_score": 6.07
   },
   {
+    "content": "",
+    "tweet_id": "1855690771845783560",
+    "engagement_score": 5.79
+  },
+  {
     "content": "OH: might be a hot take, but wagyu and caviar are overrated",
     "tweet_id": "1857801654344524221",
     "engagement_score": 5.78
@@ -343,11 +343,6 @@
     "content": "OH: Apparently, mango juice is good stuff",
     "tweet_id": "1857355244096667815",
     "engagement_score": 5.64
-  },
-  {
-    "content": "OH: vitalik was here",
-    "tweet_id": "1856118420892463122",
-    "engagement_score": 5.6
   },
   {
     "content": "OH: stop chasing the dragon… stop chasing napkin protocol development",
@@ -397,11 +392,6 @@
   {
     "content": "OH: just spent 20 minutes writing a tweet and then immediately deleted it bc i was like what am i doing with my life",
     "tweet_id": "1856205036293963936",
-    "engagement_score": 5.22
-  },
-  {
-    "content": "OH: tweet tweet tweet and grow your wealth",
-    "tweet_id": "1855690306743685603",
     "engagement_score": 5.22
   },
   {
@@ -480,11 +470,6 @@
     "engagement_score": 3.7
   },
   {
-    "content": "OH: in timeboost docs it says it shouldn’t change user experience but this isn’t true…",
-    "tweet_id": "1855704593608352071",
-    "engagement_score": 3.68
-  },
-  {
     "content": "OH: Joe and Justin must have the same public speaking coach.",
     "tweet_id": "1857010991671697430",
     "engagement_score": 3.66
@@ -530,9 +515,19 @@
     "engagement_score": 2.86
   },
   {
+    "content": "",
+    "tweet_id": "1855704593608352071",
+    "engagement_score": 2.68
+  },
+  {
     "content": "OH: I heard that @n_yushkevich is at DevCon with the @quicknode team?",
     "tweet_id": "1856281881093853387",
     "engagement_score": 2.63
+  },
+  {
+    "content": "",
+    "tweet_id": "1856118420892463122",
+    "engagement_score": 2.6
   },
   {
     "content": "OH: Just trust the curves, man",
@@ -548,6 +543,11 @@
     "content": "OH: 👍",
     "tweet_id": "1857417623727694151",
     "engagement_score": 2.27
+  },
+  {
+    "content": "",
+    "tweet_id": "1855690306743685603",
+    "engagement_score": 2.22
   },
   {
     "content": "OH: Are grass eating cows happier than corn eating cows?",
