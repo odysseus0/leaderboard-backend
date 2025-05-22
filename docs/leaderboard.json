@@ -35,11 +35,6 @@
     "engagement_score": 34.46
   },
   {
-    "content": "OH: (researcher) It's cheaper to launch Us-east1 to Space than open source RTL to GSD for a single chip.",
-    "tweet_id": "1856683778304876816",
-    "engagement_score": 32.51
-  },
-  {
     "content": "OH: The ticker is echo",
     "tweet_id": "1857080431960547526",
     "engagement_score": 27.63
@@ -58,6 +53,11 @@
     "content": "OH: incredible result of multi million dollar grant to @0xPARC is .... frog hats",
     "tweet_id": "1856303848203145556",
     "engagement_score": 19.15
+  },
+  {
+    "content": "OH: (researcher) It's cheaper to launch Us-east1 to Space than open source RTL to GSD for a single chip.",
+    "tweet_id": "1856683778304876816",
+    "engagement_score": 19.07
   },
   {
     "content": "OH: okay but the laser shooting through the ethereum logo is worth at least a year of roadmap",
@@ -252,7 +252,7 @@
   {
     "content": "OH: Best time this year is to meet up so many fantastic women here",
     "tweet_id": "1857453784823103983",
-    "engagement_score": 8.27
+    "engagement_score": 8.28
   },
   {
     "content": "OH: Who is building SOL on Ethereum?",
