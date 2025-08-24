@@ -37,7 +37,7 @@
   {
     "content": "OH: three cheap parachutes are better than one expensive one, discuss",
     "tweet_id": "1856230458754744690",
-    "engagement_score": 25.69
+    "engagement_score": 25.7
   },
   {
     "content": "OH: incredible result of multi million dollar grant to @0xPARC is .... frog hats",
@@ -180,11 +180,6 @@
     "engagement_score": 9.29
   },
   {
-    "content": "OH: Who is building SOL on Ethereum?",
-    "tweet_id": "1859950062828171564",
-    "engagement_score": 9.23
-  },
-  {
     "content": "OH: Why do I have to eat bananas? Have you ever had a Polish banana.",
     "tweet_id": "1856371034858955042",
     "engagement_score": 9.21
@@ -258,6 +253,11 @@
     "content": "OH: Best time this year is to meet up so many fantastic women here",
     "tweet_id": "1857453784823103983",
     "engagement_score": 8.4
+  },
+  {
+    "content": "OH: Who is building SOL on Ethereum?",
+    "tweet_id": "1859950062828171564",
+    "engagement_score": 8.23
   },
   {
     "content": "OH: Sir. A second Dan Robinson auction mechanism has hit a Paradigm portco",
