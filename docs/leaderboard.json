@@ -135,11 +135,6 @@
     "engagement_score": 10.3
   },
   {
-    "content": "OH: Who is building SOL on Ethereum?",
-    "tweet_id": "1859950062828171564",
-    "engagement_score": 10.23
-  },
-  {
     "content": "OH: @malleshpai drafts all SMG papers during lunch break on a napkin before he goes back to more serious work.",
     "tweet_id": "1857275208500916225",
     "engagement_score": 10.22
@@ -258,6 +253,11 @@
     "content": "OH: Best time this year is to meet up so many fantastic women here",
     "tweet_id": "1857453784823103983",
     "engagement_score": 8.4
+  },
+  {
+    "content": "OH: Who is building SOL on Ethereum?",
+    "tweet_id": "1859950062828171564",
+    "engagement_score": 8.23
   },
   {
     "content": "OH: Sir. A second Dan Robinson auction mechanism has hit a Paradigm portco",
